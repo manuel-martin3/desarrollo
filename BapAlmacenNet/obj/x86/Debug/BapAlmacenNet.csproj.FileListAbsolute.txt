@@ -1,0 +1,503 @@
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\BapSoftConta\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\BapSoftConta\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\Users\mayte\Desktop\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+\\192.168.1.30\c$\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+\\192.168.1.30\c$\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+\\192.168.1.30\c$\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapControles.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\bin\Debug\BapControles.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen_17_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapControles.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\bin\Debug\BapControles.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen_20_06_2015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\bin\Debug\BapControles.pdb
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+C:\ErpBapSoftNet_almacen\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen21092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\IrisSkin2.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapFormulariosNet.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.plantilla.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.SplashWelcome.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.WelcomeSplash.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
+D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
+D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
+D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb

@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="fichadatos" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="fichadatos">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="empresaid" type="xs:string" minOccurs="0" />
+                <xs:element name="fichaid" type="xs:string" minOccurs="0" />
+                <xs:element name="nombrelargo" type="xs:string" minOccurs="0" />
+                <xs:element name="tipdocname" type="xs:string" minOccurs="0" />
+                <xs:element name="nrodni" type="xs:string" minOccurs="0" />
+                <xs:element name="direcc" type="xs:string" minOccurs="0" />
+                <xs:element name="fechingreso" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="telefono" type="xs:string" minOccurs="0" />
+                <xs:element name="fechnacimiento" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="sexoname" type="xs:string" minOccurs="0" />
+                <xs:element name="estadocivil" type="xs:string" minOccurs="0" />
+                <xs:element name="cencosid" type="xs:string" minOccurs="0" />
+                <xs:element name="cencosname" type="xs:string" minOccurs="0" />
+                <xs:element name="cargoid" type="xs:string" minOccurs="0" />
+                <xs:element name="cargoname" type="xs:string" minOccurs="0" />
+                <xs:element name="regipenid" type="xs:string" minOccurs="0" />
+                <xs:element name="cuspp" type="xs:string" minOccurs="0" />
+                <xs:element name="fechafiliacion" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="afpname" type="xs:string" minOccurs="0" />
+                <xs:element name="fotografia" type="xs:string" minOccurs="0" />
+                <xs:element name="carnetsegsoc" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <fichadatos>
+    <empresaid>02</empresaid>
+    <fichaid>0000574</fichaid>
+    <nombrelargo>HERRERA NEIRA ERICKA FIORELLA</nombrelargo>
+    <tipdocname>DOC. NACIONAL DE IDENTIDAD</tipdocname>
+    <nrodni>70434236</nrodni>
+    <direcc>JR.CIRO ALEGRIA MZ.K6 LT.21 URB.MARISCAL CACERES LIMA-LIMA-S</direcc>
+    <fechingreso>2013-02-01T00:00:00-05:00</fechingreso>
+    <telefono> / </telefono>
+    <fechnacimiento>2014-02-21T00:00:00-05:00</fechnacimiento>
+    <sexoname>FEMENINO</sexoname>
+    <estadocivil>SOLTERO</estadocivil>
+    <cencosid>10004</cencosid>
+    <cencosname>RECURSOS HUMANOS</cencosname>
+    <cargoid>007</cargoid>
+    <cargoname>ASISTENTE DEL AREA DE SELECCIÓN Y DESARROLLO      </cargoname>
+    <regipenid>24</regipenid>
+    <cuspp>329100EHNRR9</cuspp>
+    <fechafiliacion>2013-03-28T00:00:00-05:00</fechafiliacion>
+    <afpname>SPP PRIMA</afpname>
+    <fotografia />
+    <carnetsegsoc xml:space="preserve">                    </carnetsegsoc>
+  </fichadatos>
+</NewDataSet>

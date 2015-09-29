@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AFD1A6D8-B1D1-4598-8B0E-1B3862500300}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LayerBusinessLogic</RootNamespace>
+    <AssemblyName>LayerBusinessLogic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="brokerBL.cs" />
+    <Compile Include="centrocostoBL.cs" />
+    <Compile Include="clavesBL.cs" />
+    <Compile Include="clienteWebBL.cs" />
+    <Compile Include="tb_co_canjeletracabBL.cs" />
+    <Compile Include="tb_co_canjeletradetBL.cs" />
+    <Compile Include="tb_co_canjeletrafacBL.cs" />
+    <Compile Include="tb_co_canjeletraretencionBL.cs" />
+    <Compile Include="tb_co_retencionesBL.cs" />
+    <Compile Include="tb_co_retencionescabBL.cs" />
+    <Compile Include="tb_co_retencionesdetBL.cs" />
+    <Compile Include="tb_cxc_canjedocBL.cs" />
+    <Compile Include="tb_cxc_tipventaBL.cs" />
+    <Compile Include="tb_cxc_movimientosBL.cs" />
+    <Compile Include="tb_pp_ordenprodfasemoviBL.cs" />
+    <Compile Include="tb_pp_ordenservicioBL.cs" />
+    <Compile Include="tb_pp_recetaBL.cs" />
+    <Compile Include="tb_pp_bloqhojacostoBL.cs" />
+    <Compile Include="tb_pp_servcorteBL.cs" />
+    <Compile Include="tb_pp_requerimientoprodBL.cs" />
+    <Compile Include="tb_pp_parteprendaBL.cs" />
+    <Compile Include="tb_pp_ordenprodBL.cs" />
+    <Compile Include="tb_pp_faseBL.cs" />
+    <Compile Include="tb_pp_ejecutorBL.cs" />
+    <Compile Include="tb_estadoBL.cs" />
+    <Compile Include="tb_pp_ordenserieBL.cs" />
+    <Compile Include="tb_me_proyeccionBL.cs" />
+    <Compile Include="rrhh_personalBL.cs" />
+    <Compile Include="tb_me_vendedorBL.cs" />
+    <Compile Include="tb_me_rangocomicBL.cs" />
+    <Compile Include="tb_ad_local_stockBL.cs" />
+    <Compile Include="tb_ad_movimientostarjBL.cs" />
+    <Compile Include="tb_ad_movimientosBL.cs" />
+    <Compile Include="tb_cxc_evalcredBL.cs" />
+    <Compile Include="tb_cxc_fechaBL.cs" />
+    <Compile Include="tb_cxc_pedidocabBL.cs" />
+    <Compile Include="tb_cxc_pedidodetBL.cs" />
+    <Compile Include="tb_cxc_pedidofilesBL.cs" />
+    <Compile Include="tb_me_stockdiariocabBL.cs" />
+    <Compile Include="tb_t1_cajaBL.cs" />
+    <Compile Include="sys_moduloWebBL.cs" />
+    <Compile Include="tb_pt_articuloWebBL.cs" />
+    <Compile Include="tb_co_tabla01_mediopagoWebBL.cs" />
+    <Compile Include="tb_pt_tallaWebBL.cs" />
+    <Compile Include="tb_pt_articulocolorWebBL.cs" />
+    <Compile Include="usuariomodulolocalWebBL.cs" />
+    <Compile Include="sys_dominioWebBL.cs" />
+    <Compile Include="usuariosWebBL.cs" />
+    <Compile Include="empresasWebBL.cs" />
+    <Compile Include="tb_cp_canalventaBL.cs" />
+    <Compile Include="tb_cxc_cronoPagosBL.cs" />
+    <Compile Include="tb_CondVentaBL.cs" />
+    <Compile Include="tb_cxc_vendorBL.cs" />
+    <Compile Include="rrhh_listaasistenciaBL.cs" />
+    <Compile Include="tb_me_movimientostarjBL.cs" />
+    <Compile Include="tb_me_asistquinplanillaBL.cs" />
+    <Compile Include="tb_me_categoriaplanillaBL.cs" />
+    <Compile Include="tb_pp_varianteBL.cs" />
+    <Compile Include="tb_pp_diseñadorBL.cs" />
+    <Compile Include="tb_pp_hojacostoBL.cs" />
+    <Compile Include="tb_pp_hojacostodetBL.cs" />
+    <Compile Include="tb_pp_hojacostocabBL.cs" />
+    <Compile Include="tb_pp_hojacostorubroBL.cs" />
+    <Compile Include="tb_pp_rubrocostoBL.cs" />
+    <Compile Include="tb_pp_constantesBL.cs" />
+    <Compile Include="tb_me_planillacomisionBL.cs" />
+    <Compile Include="tb_me_cuota_tiendacargoBL.cs" />
+    <Compile Include="tb_perimesBL.cs" />
+    <Compile Include="tb_me_cuota_tiendaBL.cs" />
+    <Compile Include="tb_me_cargoBL.cs" />
+    <Compile Include="tb_px_promocionesdetBL.cs" />
+    <Compile Include="tb_px_promocionesBL.cs" />
+    <Compile Include="tb_t1_tarjgrupoBL.cs" />
+    <Compile Include="tb_px_grupo_promocionesBL.cs" />
+    <Compile Include="tb_me_listapreciosdetBL.cs" />
+    <Compile Include="tb_me_listaprecioscabBL.cs" />
+    <Compile Include="tb_me_tiendalistitemBL.cs" />
+    <Compile Include="tb_me_tiendalistBL.cs" />
+    <Compile Include="tb_me_ctactelistitemBL.cs" />
+    <Compile Include="tb_me_ctactelistBL.cs" />
+    <Compile Include="tb_pt_procedenciaBL.cs" />
+    <Compile Include="tb_pt_familiadetBL.cs" />
+    <Compile Include="tb_pt_familiaBL.cs" />
+    <Compile Include="tb_pt_subcoleccionBL.cs" />
+    <Compile Include="tb_pt_parteBL.cs" />
+    <Compile Include="sys_formulariosBL.cs" />
+    <Compile Include="tb_t1_cajaconceptoBL.cs" />
+    <Compile Include="tb_cm_liquidadetBL.cs" />
+    <Compile Include="tb_cm_liquidacabBL.cs" />
+    <Compile Include="tb_t1_vendedorBL.cs" />
+    <Compile Include="tb_me_colorBL.cs" />
+    <Compile Include="tb_t1_tarjetaBL.cs" />
+    <Compile Include="tb_me_movientosdocBL.cs" />
+    <Compile Include="tb_me_movimientosBL.cs" />
+    <Compile Include="tb_me_movimientoscabBL.cs" />
+    <Compile Include="tb_me_movimientosdetBL.cs" />
+    <Compile Include="tb_me_lineaBL.cs" />
+    <Compile Include="tb_me_productosBL.cs" />
+    <Compile Include="tb_me_subgrupoBL.cs" />
+    <Compile Include="tb_me_local_stockBL.cs" />
+    <Compile Include="tb_me_grupoBL.cs" />
+    <Compile Include="tb_cm_conceptoBL.cs" />
+    <Compile Include="tb_me_ListaPrecioBL.cs" />
+    <Compile Include="sys_statusBL.cs" />
+    <Compile Include="pt_tallaBL.cs" />
+    <Compile Include="tb_co_persona_cencosBL.cs" />
+    <Compile Include="tb_cp_comercialdetBL.cs" />
+    <Compile Include="tb_CanalVentaBL.cs" />
+    <Compile Include="tb_60local_stock_inventarioBL.cs" />
+    <Compile Include="tb_cm_equivalenciaBL.cs" />
+    <Compile Include="tb_cm_ordendecompradocBL.cs" />
+    <Compile Include="tb_comprador_corporativoBL.cs" />
+    <Compile Include="tb_condpagoBL.cs" />
+    <Compile Include="tb_60movientosdocBL.cs" />
+    <Compile Include="tb_me_tiendaBL.cs" />
+    <Compile Include="tb_perianioBL.cs" />
+    <Compile Include="tb_plla_afectacionesafpBL.cs" />
+    <Compile Include="tb_plla_afectacionesctsBL.cs" />
+    <Compile Include="tb_plla_afectacionesgratifBL.cs" />
+    <Compile Include="tb_plla_afectacionesrta5BL.cs" />
+    <Compile Include="tb_plla_afectacionesvacBL.cs" />
+    <Compile Include="tb_plla_cargosBL.cs" />
+    <Compile Include="tb_plla_ccostogenBL.cs" />
+    <Compile Include="tb_plla_configuracioncierreBL.cs" />
+    <Compile Include="tb_plla_establecimientosBL.cs" />
+    <Compile Include="tb_plla_feriadosBL.cs" />
+    <Compile Include="tb_plla_fichatrabajadoresBL.cs" />
+    <Compile Include="tb_plla_fichatrabajadorescontratosBL.cs" />
+    <Compile Include="tb_plla_fichatrabajadoresrubrosBL.cs" />
+    <Compile Include="tb_plla_geneventospermisoBL.cs" />
+    <Compile Include="tb_plla_numeracionpllaBL.cs" />
+    <Compile Include="tb_plla_pdt_tabla02BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla03BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla05BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla06BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla08BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla09BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla10BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla11BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla12BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla13BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla14BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla15BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla16BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla17BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla21BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla22BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla24BL.cs" />
+    <Compile Include="tb_plla_pdt_tabla25BL.cs" />
+    <Compile Include="tb_plla_periodovacacionalBL.cs" />
+    <Compile Include="tb_plla_plantilla_contratosBL.cs" />
+    <Compile Include="tb_plla_porcentafpBL.cs" />
+    <Compile Include="tb_plla_porcentleyesBL.cs" />
+    <Compile Include="tb_plla_retencionquintaBL.cs" />
+    <Compile Include="tb_plla_rubrosafectosleyestrabemplBL.cs" />
+    <Compile Include="tb_plla_rubrosaportacionesBL.cs" />
+    <Compile Include="tb_plla_rubrosdescuentosBL.cs" />
+    <Compile Include="tb_plla_rubrosingresoBL.cs" />
+    <Compile Include="tb_plla_rubrospermanenteBL.cs" />
+    <Compile Include="tb_plla_rubrospllacabBL.cs" />
+    <Compile Include="tb_plla_rubrosplladetBL.cs" />
+    <Compile Include="tb_plla_tab0100BL.cs" />
+    <Compile Include="tb_plla_tipocontratoBL.cs" />
+    <Compile Include="tb_plla_tipoplanillaBL.cs" />
+    <Compile Include="tb_plla_turnoscabBL.cs" />
+    <Compile Include="tb_plla_valor_uitBL.cs" />
+    <Compile Include="tb_pt_coleccionBL.cs" />
+    <Compile Include="tb_60colorBL.cs" />
+    <Compile Include="tb_centrocostoBL.cs" />
+    <Compile Include="tb_cm_ordendecompraBL.cs" />
+    <Compile Include="tb_cm_ordendecompracabBL.cs" />
+    <Compile Include="tb_cm_ordendecompradetBL.cs" />
+    <Compile Include="tb_co_ComprasBL.cs" />
+    <Compile Include="tb_pt_componentesBL.cs" />
+    <Compile Include="tb_co_cierremensualesBL.cs" />
+    <Compile Include="tb_co_ComprascabBL.cs" />
+    <Compile Include="tb_co_ComprasdetBL.cs" />
+    <Compile Include="tb_co_ComprobantescontabilidadBL.cs" />
+    <Compile Include="tb_co_ConfigcuentasrhredBL.cs" />
+    <Compile Include="tb_co_detraccionBL.cs" />
+    <Compile Include="tb_co_FacturaBL.cs" />
+    <Compile Include="tb_co_FlujoefectivoBL.cs" />
+    <Compile Include="tb_co_mesesBL.cs" />
+    <Compile Include="tb_co_motivodeltrasladoBL.cs" />
+    <Compile Include="tb_co_MovimientosBL.cs" />
+    <Compile Include="tb_co_MovimientoscabBL.cs" />
+    <Compile Include="tb_co_MovimientosdetBL.cs" />
+    <Compile Include="tb_co_MovimientostescontabilidadBL.cs" />
+    <Compile Include="tb_co_OperacionescontabilidadBL.cs" />
+    <Compile Include="tb_co_percepcionesBL.cs" />
+    <Compile Include="tb_co_plancontableBL.cs" />
+    <Compile Include="empresasBL.cs" />
+    <Compile Include="tb_60grupoBL.cs" />
+    <Compile Include="tb_60lineaBL.cs" />
+    <Compile Include="tb_60local_stockBL.cs" />
+    <Compile Include="ta_local_stock_inventarioBL.cs" />
+    <Compile Include="tb_60local_stock_inventario_rolloBL.cs" />
+    <Compile Include="tb_60local_stock_inventario_rollo_cargaBL.cs" />
+    <Compile Include="tb_60movimientosBL.cs" />
+    <Compile Include="tb_60movimientoscabBL.cs" />
+    <Compile Include="tb_60movimientosdetBL.cs" />
+    <Compile Include="ta_movimientosdet_deleteBL.cs" />
+    <Compile Include="tb_ta_estructuraBL.cs" />
+    <Compile Include="tb_ta_prodrolloBL.cs" />
+    <Compile Include="tb_60productosBL.cs" />
+    <Compile Include="tb_60subgrupoBL.cs" />
+    <Compile Include="tb_ta_tela_fallasBL.cs" />
+    <Compile Include="sys_tablasBL.cs" />
+    <Compile Include="mp_local_stock_inventario_rolloBL.cs" />
+    <Compile Include="mp_local_stock_inventario_rollo_cargaBL.cs" />
+    <Compile Include="pp_ordenproduccionrutaBL.cs" />
+    <Compile Include="sys_tiendaBL.cs" />
+    <Compile Include="tb_pt_pedidosBL.cs" />
+    <Compile Include="tb_pt_pedidoscabBL.cs" />
+    <Compile Include="tb_pt_pedidosdetBL.cs" />
+    <Compile Include="mp_tela_fallasBL.cs" />
+    <Compile Include="pp_ordenproduccionfasescabBL.cs" />
+    <Compile Include="tallerBL.cs" />
+    <Compile Include="tallertipoBL.cs" />
+    <Compile Include="pp_faseBL.cs" />
+    <Compile Include="pp_ordenproducciondetBL.cs" />
+    <Compile Include="pp_ordenproduccioncabBL.cs" />
+    <Compile Include="pp_ordenproduccionBL.cs" />
+    <Compile Include="tb_pt_botapieBL.cs" />
+    <Compile Include="tb_pt_entalleBL.cs" />
+    <Compile Include="tb_pt_estadoBL.cs" />
+    <Compile Include="tb_pt_modeloBL.cs" />
+    <Compile Include="tb_pt_estructuraBL.cs" />
+    <Compile Include="mp_prodrolloBL.cs" />
+    <Compile Include="tb_pt_movimientosdetBL.cs" />
+    <Compile Include="tb_pt_movimientoscabBL.cs" />
+    <Compile Include="tb_pt_movimientosBL.cs" />
+    <Compile Include="tb_pt_productoBL.cs" />
+    <Compile Include="tb_pt_articulocolorBL.cs" />
+    <Compile Include="tb_pt_colorBL.cs" />
+    <Compile Include="tb_pt_articuloBL.cs" />
+    <Compile Include="tb_pt_grupoBL.cs" />
+    <Compile Include="tb_pt_tallaBL.cs" />
+    <Compile Include="tb_pt_estacionBL.cs" />
+    <Compile Include="tb_pt_temporadaBL.cs" />
+    <Compile Include="tb_pt_tejidoBL.cs" />
+    <Compile Include="tb_pt_generoBL.cs" />
+    <Compile Include="tb_pt_marcaBL.cs" />
+    <Compile Include="tb_pt_lineaBL.cs" />
+    <Compile Include="tb_pt_categoriaBL.cs" />
+    <Compile Include="sys_moduloBL.cs" />
+    <Compile Include="bancoBL.cs" />
+    <Compile Include="clienteBL.cs" />
+    <Compile Include="cliente_bancoBL.cs" />
+    <Compile Include="cliente_direcBL.cs" />
+    <Compile Include="comprobanteBL.cs" />
+    <Compile Include="sys_localBL.cs" />
+    <Compile Include="modulo_local_tipodocBL.cs" />
+    <Compile Include="modulo_local_tipodocseriesBL.cs" />
+    <Compile Include="sys_dominioBL.cs" />
+    <Compile Include="mp_local_stock_inventarioBL.cs" />
+    <Compile Include="constantesgeneralesBL.cs" />
+    <Compile Include="mp_movimientosdet_deleteBL.cs" />
+    <Compile Include="mp_movimientosBL.cs" />
+    <Compile Include="tb_co_plantillacontableBL.cs" />
+    <Compile Include="tb_co_recibosporhonorariosBL.cs" />
+    <Compile Include="tb_co_rubrocomprasBL.cs" />
+    <Compile Include="tb_co_rubroventasBL.cs" />
+    <Compile Include="tb_co_seguridadlogBL.cs" />
+    <Compile Include="tb_co_tabla01_mediopagoBL.cs" />
+    <Compile Include="tb_co_tabla02_docidentidadBL.cs" />
+    <Compile Include="tb_co_tabla03_bancoBL.cs" />
+    <Compile Include="tb_co_tabla04_tipomonedaBL.cs" />
+    <Compile Include="tb_co_tabla05_tipoexistenciaBL.cs" />
+    <Compile Include="tb_co_tabla06_unidadmedidaBL.cs" />
+    <Compile Include="tb_co_tabla07_tipointangibleBL.cs" />
+    <Compile Include="tb_co_tabla08_libroregistroBL.cs" />
+    <Compile Include="tb_co_tabla09_ctacontableBL.cs" />
+    <Compile Include="tb_co_tabla10_comprobantesBL.cs" />
+    <Compile Include="tb_co_tabla11_aduanaBL.cs" />
+    <Compile Include="tb_co_tabla12_toperacionalmacenBL.cs" />
+    <Compile Include="tb_co_tipocomprasBL.cs" />
+    <Compile Include="tb_co_tipodiarioBL.cs" />
+    <Compile Include="tb_co_tipoexportacionBL.cs" />
+    <Compile Include="tb_co_tipoventasBL.cs" />
+    <Compile Include="tb_co_tributoafectocomprasBL.cs" />
+    <Compile Include="tb_co_tributoafectoventasBL.cs" />
+    <Compile Include="tb_co_VentasBL.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tb_co_VentascabBL.cs" />
+    <Compile Include="tb_co_VentasdetBL.cs" />
+    <Compile Include="tb_co_viatransporteBL.cs" />
+    <Compile Include="tb_cp_comercialcabBL.cs" />
+    <Compile Include="tb_cp_comercialcoloresBL.cs" />
+    <Compile Include="tb_cp_comercialcomponentesBL.cs" />
+    <Compile Include="tb_cp_comercialestilosBL.cs" />
+    <Compile Include="tb_cp_comercialtallasBL.cs" />
+    <Compile Include="tb_mottrasladointBL.cs" />
+    <Compile Include="tb_tipimptoBL.cs" />
+    <Compile Include="tb_tipooperacionBL.cs" />
+    <Compile Include="tb_transportistaBL.cs" />
+    <Compile Include="tb_vendedor_corporativoBL.cs" />
+    <Compile Include="usuariomodulolocalBL.cs" />
+    <Compile Include="mp_movimientoscabBL.cs" />
+    <Compile Include="mp_movimientosdetBL.cs" />
+    <Compile Include="mp_local_stockBL.cs" />
+    <Compile Include="mp_productosBL.cs" />
+    <Compile Include="tipocambioBL.cs" />
+    <Compile Include="docuidentBL.cs" />
+    <Compile Include="empresaperiodoBL.cs" />
+    <Compile Include="mp_grupoBL.cs" />
+    <Compile Include="mp_lineaBL.cs" />
+    <Compile Include="mp_subgrupoBL.cs" />
+    <Compile Include="paisBL.cs" />
+    <Compile Include="perfilBL.cs" />
+    <Compile Include="perfilitemsBL.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tributoBL.cs" />
+    <Compile Include="tributotasaBL.cs" />
+    <Compile Include="ubigeoBL.cs" />
+    <Compile Include="unimedBL.cs" />
+    <Compile Include="usuariosBL.cs" />
+    <Compile Include="usuariosperfilBL.cs" />
+    <Compile Include="usuariostablasBL.cs" />
+    <Compile Include="usuariosxprocesoBL.cs" />
+    <Compile Include="vendedor_corporativoBL.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LayerBusinessEntities\LayerBusinessEntities.csproj">
+      <Project>{3771A295-DD05-44E9-A24F-86CD737F33ED}</Project>
+      <Name>LayerBusinessEntities %28LayerBusinessEntities\LayerBusinessEntities%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LayerDataAccess\LayerDataAccess.csproj">
+      <Project>{3003105F-55BE-482B-A671-3F0685544182}</Project>
+      <Name>LayerDataAccess %28LayerDataAccess\LayerDataAccess%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

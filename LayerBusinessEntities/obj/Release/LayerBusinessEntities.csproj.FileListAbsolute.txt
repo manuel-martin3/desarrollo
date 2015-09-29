@@ -1,0 +1,10 @@
+C:\ErpBapSoftNet_almacen\LayerBusinessEntities\bin\Release\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessEntities\bin\Release\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen\LayerBusinessEntities\obj\Release\LayerBusinessEntities.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen\LayerBusinessEntities\obj\Release\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessEntities\obj\Release\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessEntities\bin\Release\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessEntities\bin\Release\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessEntities\obj\Release\LayerBusinessEntities.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessEntities\obj\Release\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessEntities\obj\Release\LayerBusinessEntities.pdb

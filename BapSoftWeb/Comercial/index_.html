@@ -1,0 +1,1131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Grayscale - Start Bootstrap Theme</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="assets/css/grayscale.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+        
+    <!--STYLE DATEPICKER-->   
+    <!--<link rel="stylesheet" href="assets/css/datepicker/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/datepicker/bootstrap-datepicker.min.css" />
+    <!--FIN-->
+
+    <!-- DATEPICKER-->
+    <!-- DATE PICKER -->
+    <link href="assets/datepicker/css/jquery-ui.css" rel="stylesheet">
+    <!-- DATE PICKER -->
+    <script src="assets/datepicker/js/jquery.js"></script>    
+    <script src="assets/datepicker/js/jquery-ui.js"></script>
+    <script src="assets/datepicker/js/jquery.ui.datepicker-es.js"></script>
+    <script>
+      $(function() {
+        
+        $( "#datepicker" ).datepicker({
+          showOn: "button",
+          showButtonPanel: true,
+          buttonImage: "assets/datepicker/images/calendar.gif",
+          minDate: 0,           
+          /*maxDate: "+1M +10D",*/
+          buttonImageOnly: true,
+          buttonText: "Seleccionar fecha"
+        });
+
+        $( "#datepicker1" ).datepicker({
+          showOn: "button",
+          showButtonPanel: true,
+          buttonImage: "assets/datepicker/images/calendar.gif",
+          minDate: 0,           
+          /*maxDate: "+1M +10D",*/
+          buttonImageOnly: true,
+          buttonText: "Seleccionar fecha"
+        });
+
+        $( "#datepicker2" ).datepicker({
+          showOn: "button",
+          showButtonPanel: true,
+          buttonImage: "assets/datepicker/images/calendar.gif",
+          minDate: 0,           
+          /*maxDate: "+1M +10D",*/
+          buttonImageOnly: true,
+          buttonText: "Seleccionar fecha"
+        });
+
+      });
+    </script>
+    
+    <link href="assets/dataTables/dataTables.bootstrap.css" rel="stylesheet" />
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <!--
+    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">
+                    <i class="fa fa-play-circle"></i>  <span class="light">Start</span> Bootstrap
+                </a>
+            </div>
+            -->
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!--<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">-->
+
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <!--<li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#download">Download</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>-->
+            <!-- /.navbar-collapse -->
+        <!--</div>-->
+        <!-- /.container -->
+    <!--</nav>-->
+
+
+    <!-- Intro Header -->
+    <header class="intro">
+        <div class="intro-body">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <h1 class="brand-heading">WAMA S.A.C</h1>
+                        <p class="intro-text">Gestor de proformas<br> en línea</p>
+                        <center>
+                        ......::::::::::::::: ][ Menú de Tareas ][ :::::::::::::::......
+                        </center>
+                        <hr />
+                        <a href="#search" class="btn btn-circle"><i class="fa fa-search animated"></i></a>
+                        <a href="#about" class="btn btn-circle "><i class="fa fa-file-o animated"></i></a>
+                        <a href="#search" class="btn btn-circle"><i class="fa fa-pencil animated"></i></a>
+                        <a href="#search" class="btn btn-circle"><i class="fa fa-trash-o animated"></i></a>
+                        <a href="#search" class="btn btn-circle"><i class="fa fa-file-pdf-o animated"></i></a>                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- About Section -->
+    <section id="about" class="container content-section text-center">
+    <br><br><br><br><br><br><br><br>
+
+                <h2><i class="fa fa-user"></i> Registro de Clientes</h2>
+                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
+            <!--
+            <div class="panel-body">                            
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label>Razón social *</label>                                       
+                            <div class="input-group">
+                                        <input id="btn-input" type="text" class="form-control input-sm" placeholder="Ingresar Razón Social ..." />
+                                <span class="input-group-btn">
+                                    <button class="btn btn-warning btn-sm" id="btn-chat">
+                                        Buscar
+                                    </button>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                -->
+
+
+            <div class="row">
+                <div class="col-md-12 text-left">                                      
+                    <div class="panel panel-info">
+                    <div class="panel-body alert-info">
+                    <div class="table-responsive">                        
+                        <div class="col-md-3">                        
+                            <label>N° Proforma</label>
+                            <input class="form-control" placeholder="" disabled="">
+                        </div>                    
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label>Tipo de Venta</label>
+                                <select class="form-control">
+                                    <option>One Vale</option>
+                                    <option>Two Vale</option>
+                                    <option>Three Vale</option>
+                                    <option>Four Vale</option>
+                                </select>
+                            </div> 
+                        </div>
+                        <div class="col-md-3">
+                            <label>Fecha Entrega</label>                                                       
+                            <input id="datepicker2" class="form-control" type="text" disabled="">                            
+                        </div>
+                        <div class="col-md-3">                    
+                            <label>Fecha de Emisión</label>
+                            <input class="form-control" placeholder="" disabled="">                    
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>                
+            </div>
+            
+            <div class="row">
+                <div class="col-md-12 text-left">                                      
+                    <div class="panel panel-info">
+                    <div class="panel-body alert-info">
+                    <div class="table-responsive">                        
+                        <div class="col-md-3">
+                            <label>N° Cta. Cte.</label>                            
+                            <div class="form-group input-group">
+                                <input type="text" class="form-control" placeholder="Buscar por...">
+                                <span class="input-group-btn">
+                                <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#searchCust"><i class="fa fa-search"></i></button>
+                                </span>
+                            </div>
+                        </div>                    
+                        <div class="col-md-3">
+                            <label>R.U.C.</label>                                                        
+                            <input class="form-control" placeholder="R.U.C." disabled="">
+                        </div>
+                        <div class="col-md-6">                    
+                            <label>Razón Social</label>                                                        
+                            <input class="form-control" placeholder="Razón Social" disabled="">
+                        </div>
+                        <div class="col-md-12">                    
+                            <label>Dirección de Entrega</label>
+                            <input class="form-control" placeholder="">                    
+                        </div>
+                        <div class="col-md-3">                    
+                            <label>Representante Legal</label>
+                            <input class="form-control" placeholder="" disabled="">                    
+                        </div>
+                        <div class="col-md-9">                    
+                            <label>D.N.I</label>
+                            <input class="form-control" placeholder="" disabled="">                    
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>                
+            </div>
+            
+            <div class="row">
+                <div class="col-md-8 text-left">                                      
+                    <div class="panel panel-info">
+                    <div class="panel-body alert-info">
+                    <div class="table-responsive">                        
+                        <div class="col-md-4">
+                            <div class="form-group">
+                                <label>Condición de Venta</label>
+                                <select class="form-control">
+                                    <option>One Vale</option>
+                                    <option>Two Vale</option>
+                                    <option>Three Vale</option>
+                                    <option>Four Vale</option>
+                                </select>
+                            </div>
+                        </div>                    
+                        <div class="col-md-3">
+                            <div class="form-group">
+                                <label>Plazos</label>
+                                <select class="form-control">
+                                    <option>One Vale</option>
+                                    <option>Two Vale</option>
+                                    <option>Three Vale</option>
+                                    <option>Four Vale</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3">                            
+                            <div class="form-group">
+                                <label>Moneda</label>
+                                <select class="form-control">
+                                    <option>One Vale</option>
+                                    <option>Two Vale</option>
+                                    <option>Three Vale</option>
+                                    <option>Four Vale</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-2">                    
+                            <label>Impuestos</label>
+                            <input class="form-control" placeholder="" disabled="">                    
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>    
+                <div class="col-md-4 text-left">                                      
+                    <div class="panel panel-info">
+                    <div class="panel-body alert-info">
+                    <div class="table-responsive">                        
+                        <div class="col-md-9">                        
+                            <label>Vendedor</label>
+                            <input class="form-control" placeholder="" disabled="">
+                        </div>                    
+                        <div class="col-md-3">
+                            <label>Id</label>
+                            <input class="form-control" placeholder="" disabled="">
+                        </div>       
+                    </div>
+                    </div>
+                    </div>                    
+                </div>             
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-left">                                      
+                    <div class="panel panel-info">
+                    <div class="panel-body alert-info">
+                    <div class="table-responsive">                        
+                        <div class="col-md-12">                        
+                            <label>Observación</label>
+                            <input class="form-control" placeholder="" disabled="">
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                </div>                
+            </div>
+
+                <a href="#download" class="btn btn-default btn-lg"><span class="network-name">Siguiente</span> <i class="fa fa-chevron-right"></i></a>
+                <a href="#page-top" class="btn btn-default btn-lg"><i class="fa fa-minus-square"></i> <span class="network-name">Cancelar</span></a>
+        <div></div>
+        <br><br><br><br><br>
+    </section>
+
+    <!-- Download Section -->
+    <section id="download" class="content-section text-center">
+    <br><br><br><br>
+        <div class="download-section">            
+            <div class="container">
+                <div class="row">
+                <div class="col-md-12">
+                <div class="col-lg-8 col-lg-offset-2">
+
+                    <h2><i class="fa fa-list-alt"></i> Listados de Items</h2>                                        
+                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
+                </div>
+            </div>
+        </div>
+
+                <!--        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                -->
+
+
+                <div class="row">
+                    <div class="col-md-12 text-left">                    
+                        <div class="col-md-3">
+                            <div class="form-group input-group">
+                                <input type="text" class="form-control" placeholder="Buscar por...">
+                                <span class="input-group-btn">
+                                <button class="btn btn-warning" type="button" data-toggle="modal" data-target="#searchProd"><i class="fa fa-search"></i></button>
+                                </span>
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                            <button class="btn btn-success" data-toggle="modal" data-target="#searchProd"><i class=" fa fa-plus"></i> Agregar a Lista</button>
+                        </div>
+                    </div>
+                </div> 
+                <br>
+
+
+
+                <div class="row">
+                <div class="col-md-12">
+                    <!-- Advanced Tables -->
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                             Lista de Items
+                        </div>
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped table-bordered table-hover" id="dataTables-example">
+                                    <thead>
+                                        <tr>
+                                            <th>Código</th>
+                                            <th>Marca</th>
+                                            <th>Producto</th>
+                                            <th>Color</th>
+                                            <th>Talla</th>
+                                            <th>Stock</th>
+                                            <th>Precio Lista</th>
+                                            <th><center>Menú opciones</center></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="odd gradeX">
+                                            <td>Trident</td>
+                                            <td>Vernal Explorer 4.0</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">4</td>
+                                            <td class="center">X</td>
+                                            <td class="center">4</td>
+                                            <td class="center">X</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#searchProd"><i class=" fa fa-pencil-square-o" ></i> </button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+
+                                        </tr>
+                                        <tr class="even gradeC">
+                                            <td>Trident</td>
+                                            <td>Angular Explorer 5.0</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">5</td>
+                                            <td class="center">C</td>
+                                            <td class="center">5</td>
+                                            <td class="center">C
+
+                                            </td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#searchProd"><i class=" fa fa-pencil-square-o" ></i> </button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="odd gradeA">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 5.5</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">5.5</td>
+                                            <td class="center">A</td>
+                                            <td class="center">5.5</td>
+                                            <td class="center">A</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#searchProd"><i class=" fa fa-pencil-square-o" ></i> </button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="even gradeA">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 6</td>
+                                            <td>Win 98+</td>
+                                            <td class="center">6</td>
+                                            <td class="center">A</td>
+                                            <td class="center">6</td>
+                                            <td class="center">A</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#searchProd"><i class=" fa fa-pencil-square-o" ></i> </button> 
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>      
+                        </div>
+                    </div>
+                    <!--End Advanced Tables -->
+                </div>
+                </div>      
+                       
+
+                <div class="row">
+                <div class="col-md-12 text-left">                    
+                    <div class="col-md-3">
+                        <label>Total Items</label>
+                        <input class="form-control" placeholder="0" disabled="">
+                    </div>
+
+                    <div class="col-md-3">
+                        <label>Vta. Precio Lista</label>
+                        <input class="form-control" placeholder="00.000" disabled="">
+                    </div>
+
+                    <div class="col-md-3">
+                        <label>% Descuento</label>
+                        <input class="form-control" placeholder="00.000" disabled="">
+                    </div>
+                    <div class="col-md-3">
+                        <label>Vta. con Descuento</label>
+                        <input class="form-control" placeholder="00.000" disabled="">
+                    </div>
+
+                </div>
+            </div>                    
+                <!--</div>-->
+            </div>
+            <br><br>
+        <a href="#about" class="btn btn-default btn-lg"><i class="fa fa-chevron-left"></i> <span class="network-name">Anterior</span></a>
+        <a href="#contact" class="btn btn-default btn-lg"><span class="network-name">Siguiente</span> <i class="fa fa-chevron-right"></i></a>
+        <a href="#page-top" class="btn btn-default btn-lg"><i class="fa fa-minus-square"></i> <span class="network-name">Cancelar</span></a>
+
+        </div>
+        
+        <br><br>
+    </section>
+
+    <!-- Contact Section -->    
+    <section id="contact" class="container content-section text-center">   
+    <br><br><br><br><br>
+            <h2><i class="fa fa-calendar"></i> Cronograma de Pago</h2>                    
+                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
+            <div class="row">
+                <div class="col-md-12 text-left">    
+                    <div class="col-md-3">
+                        <label>N° Proforma</label>
+                        <input class="form-control" placeholder="" disabled="">
+                    </div>                    
+                    <div class="col-md-3">
+                        <label>Neto a Pagar</label>
+                        <input class="form-control" placeholder="" disabled="">
+                    </div>
+                    <div class="col-md-3">                    
+                        <label>Fecha de Emisión</label>
+                        <input class="form-control" placeholder="" disabled="">                    
+                    </div>
+                    <div class="col-md-3">                        
+                        <label>Fecha Entrega</label>                                                    
+                        <!--<input id="datepicker" class="form-control" type="text" disabled="">-->
+                        <input class="form-control" type="text" disabled="">                         
+
+                    </div>
+                </div>
+            </div>
+            <br>
+
+            <div class="row">
+            <div class="col-md-12 text-left">                    
+                <div class="col-md-3">
+                    <!--<label>Neto a Pagar</label>
+                    <input class="form-control" placeholder="" disabled="">
+                    <br>-->
+
+                    <div class="form-group">
+                        <label>Medio de Pago</label>
+                        <select class="form-control">
+                            <option>One Vale</option>
+                            <option>Two Vale</option>
+                            <option>Three Vale</option>
+                            <option>Four Vale</option>
+                        </select>
+                    </div> 
+                    
+                    <br>                   
+                        <label>Número de Cuotas</label>
+                            <div class="form-group input-group">
+                                <span class="input-group-addon">
+                                <input type="checkbox" name="opciones" id="opciones_1" value="opcion_1" checked="">
+                                </span>                                            
+                                <label class="form-control" disabled="">Automático</label>                                
+                            </div>                
+                        <select class="form-control">
+                            <option>One Vale</option>
+                            <option>Two Vale</option>
+                            <option>Three Vale</option>
+                            <option>Four Vale</option>
+                        </select>
+                    <br>                    
+
+                    <br>
+
+                </div>  
+            
+
+
+                <div class="col-md-9">
+                    <!-- Advanced Tables -->
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                             Lista de Items
+                        </div>
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped table-bordered table-hover" id="dataTables-example1">
+                                    <thead>
+                                        <tr>
+                                            <th>N° Cuotas</th>
+                                            <th>Monto a pagar</th>
+                                            <th>Fecha de pago</th>                                                                                        
+                                            <th><center>Menú Opciones</center></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="odd gradeX">                                            
+                                            <td class="center">1</td>
+                                            <td class="center">25.00</td>
+                                            <td class="center">01/04/2014</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#updateCalendar"><i class=" fa fa-pencil-square-o" ></i></button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+
+                                        </tr>
+                                        <tr class="even gradeC">                                            
+                                            <td class="center">2</td>
+                                            <td class="center">25.00</td>
+                                            <td class="center">01/05/2015</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#updateCalendar"><i class=" fa fa-pencil-square-o" ></i></button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="odd gradeA">                                            
+                                            <td class="center">3</td>
+                                            <td class="center">25.00</td>
+                                            <td class="center">01/06/2015</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#updateCalendar"><i class=" fa fa-pencil-square-o" ></i></button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="even gradeA">
+                                            <td class="center">4</td>
+                                            <td class="center">25.00</td>
+                                            <td class="center">01/07/2015</td>
+                                            <td class="center">
+                                                <button class="btn btn-warning" data-toggle="modal" data-target="#updateCalendar"><i class=" fa fa-pencil-square-o" ></i></button>
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>      
+                        </div>
+                    </div>
+                    <!--End Advanced Tables -->
+                </div>
+                </div>
+                <a href="#download" class="btn btn-default btn-lg"><i class="fa fa-chevron-left"></i> <span class="network-name">Anterior</span></a>
+                <a href="#download" class="btn btn-default btn-lg" data-toggle="modal" data-target="#saveItem"><i class="fa fa-save"></i> <span class="network-name">Guardar</span></a>
+                <a href="#page-top" class="btn btn-default btn-lg"><i class="fa fa-minus-square"></i> <span class="network-name">Cancelar</span></a>
+                <a href="#page-top" class="btn btn-default btn-lg" data-toggle="modal" data-target="#printItem"><i class="fa fa-print"></i> <span class="network-name">Imprimir</span></a>
+                
+            </div>
+            <br><br><br><br>
+    </section>
+
+    <section id="search" class="container content-section text-center">
+        <br><br><br><br>
+            <h2><i class="fa fa-search animated"></i> Busqueda de Archivos</h2>
+                    <p>You can download Grayscale for free on the preview page at Start Bootstrap.</p>
+                <div class="col-md-4">
+                  <!--   Decripción -->                   
+
+                <div class="form-group input-group">
+                    <input type="text" class="form-control">
+                    <span class="input-group-btn">
+                        <button class="btn btn-warning" type="button"><i class="fa fa-search"></i>
+                        </button>
+                    </span>
+                </div>                    
+                </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- Advanced Tables -->
+                    <div class="panel panel-primary">
+                        <div class="panel-heading">
+                             Lista de Items
+                        </div>
+                        <div class="panel-body">
+                            <div class="table-responsive">
+                                <table class="table table-striped table-bordered table-hover" id="dataTables-example2">
+                                    <thead>
+                                        <tr>
+                                            <th>Proforma</th>
+                                            <th>Tipo de Venta</th>                                            
+                                            <th>Cliente</th>
+                                            <th>Vendedor</th>
+                                            <th>Monto de Venta</th>
+                                            <th>Fecha Emisión</th>
+                                            <th>Estado</th>                                            
+                                            <th><center>Menú Opciones</center></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr class="odd gradeX">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 4.0</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">4</td>
+                                            <td class="center">X</td>
+                                            <td class="center">4</td>
+                                            <td class="center">X</td>
+                                            <td class="center"> 
+                                                <a href="#about" class="btn btn-success"><i class="fa fa-eye"></i> <span class="network-name">ver</span></a>
+                                                <button class="btn btn-info" data-toggle="modal" data-target="#printItem"><i class=" fa fa-print" ></i> </button>
+                                                <a href="#about" class="btn btn-warning"><i class="fa fa-pencil-square-o"></i> <span class="network-name"></span></a>                                                
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+
+                                        </tr>
+                                        <tr class="even gradeC">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 5.0</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">5</td>
+                                            <td class="center">C</td>
+                                            <td class="center">5</td>
+                                            <td class="center">C</td>
+                                            <td class="center"> 
+                                                <a href="#about" class="btn btn-success"><i class="fa fa-eye"></i> <span class="network-name">ver</span></a>
+                                                <button class="btn btn-info" data-toggle="modal" data-target="#printItem"><i class=" fa fa-print" ></i> </button>
+                                                <a href="#about" class="btn btn-warning"><i class="fa fa-pencil-square-o"></i> <span class="network-name"></span></a>                                                
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="odd gradeA">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 5.5</td>
+                                            <td>Win 95+</td>
+                                            <td class="center">5.5</td>
+                                            <td class="center">A</td>
+                                            <td class="center">5.5</td>
+                                            <td class="center">A</td>
+                                            <td class="center"> 
+                                                <a href="#about" class="btn btn-success"><i class="fa fa-eye"></i> <span class="network-name">ver</span></a>
+                                                <button class="btn btn-info" data-toggle="modal" data-target="#printItem"><i class=" fa fa-print" ></i> </button>
+                                                <a href="#about" class="btn btn-warning"><i class="fa fa-pencil-square-o"></i> <span class="network-name"></span></a>                                                
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                        <tr class="even gradeA">
+                                            <td>Trident</td>
+                                            <td>Internet Explorer 6</td>
+                                            <td>Win 98+</td>
+                                            <td class="center">6</td>
+                                            <td class="center">A</td>
+                                            <td class="center">6</td>
+                                            <td class="center">A</td>
+                                            <td class="center">                                                 
+                                                <a href="#about" class="btn btn-success"><i class="fa fa-eye"></i> <span class="network-name">ver</span></a>
+                                                <button class="btn btn-info" data-toggle="modal" data-target="#printItem"><i class=" fa fa-print" ></i> </button>
+                                                <a href="#about" class="btn btn-warning"><i class="fa fa-pencil-square-o"></i> <span class="network-name"></span></a>                                                
+                                                <button class="btn btn-danger" data-toggle="modal" data-target="#deleteItem"><i class=" fa fa-trash-o" ></i> </button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>      
+                        </div>
+                    </div>
+                    <!--End Advanced Tables -->
+                </div>
+            </div>
+            <a href="#page-top" class="btn btn-default btn-lg"><i class="fa fa-power-off"></i> <span class="network-name">Salir</span></a>
+    </section>
+    
+    <section id="modaDelete">        
+                            <div class="modal fade" id="deleteItem" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title" id="myModalLabel"><i class="fa fa-trash-o fa-1x"></i> Mensaje</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            Usted ha presionado sobre el botón Eliminar.<br>
+                                            ¿ Está seguro que desea eleminar este registro ?
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" >Si</button>
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal">No</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+    </section>          
+    <section id="modaSave">        
+                            <div class="modal fade" id="saveItem" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title" id="myModalLabel"><i class="fa fa-exclamation-triangle fa-1x"></i> Mensaje</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            Usted ha presionado sobre el botón Guardar.<br>
+                                            ¿ Está seguro que desea guardar este registro ?
+
+                                            <!--Su documento se ha guardado exitosamente<br>
+                                            ¿ Desea Imprimir su documento ?-->
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" >Si</button>
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal">No</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+    </section>
+    <section id="modaPrint">        
+                            <div class="modal fade" id="printItem" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title" id="myModalLabel"><i class="fa fa-exclamation-triangle fa-1x"></i> Mensaje</h4>
+                                        </div>
+                                        <div class="modal-body">                                            
+                                            ¿ Desea abrir la vista previa de impresión del registro ?
+                                            <!--Su documento se ha guardado exitosamente<br>
+                                            ¿ Desea Imprimir su documento ?-->
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default" >Si</button>
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal">No</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+    </section>
+    <section id="modalSerchProduct">
+                                    <div class="modal fade" id="searchProd" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title" id="myModalLabel"><i class="fa fa-list fa-1x"></i> Listado de Productos</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <!--
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                        -->
+
+
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="modal-body">
+                                                    <div class="panel-body">
+                                                        <div class="table-responsive">
+                                                            <table class="table table-striped table-bordered table-hover" id="dataTables-example3">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>Código</th>
+                                                                        <th>Artículo</th>                                            
+                                                                        <th>Marca</th>                                                                
+                                                                        <th>Precio Lista</th>                                                                
+                                                                        <th><center>Menú Opciones</center></th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr class="odd gradeX">
+                                                                        <td>Trident</td>
+                                                                        <td>Internet Explorer 4.0</td>
+                                                                        <td>Win 95+</td>                                                                
+                                                                        <td>90.00</td>                                                                
+                                                                        <td class="center"> 
+                                                                            <input type="checkbox" value="" class="checkbox">Elegir
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr class="even gradeC">
+                                                                        <td>Trident</td>
+                                                                        <td>Internet Explorer 5.0</td>
+                                                                        <td>Win 95+</td> 
+                                                                        <td>80.00</td>
+                                                                        <td class="center"> 
+                                                                            <input type="checkbox" value="" class="checkbox">Elegir
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr class="odd gradeA">
+                                                                        <td>Trident</td>
+                                                                        <td>Internet Explorer 5.5</td>
+                                                                        <td>Win 95+</td>
+                                                                        <td>70.00</td>
+                                                                        <td class="center">                                               
+                                                                           <input type="checkbox" value="" class="checkbox">Elegir
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr class="even gradeA">
+                                                                        <td>Trident</td>
+                                                                        <td>Internet Explorer 6</td>
+                                                                        <td>Win 98+</td>
+                                                                        <td>60.00</td>
+                                                                        <td class="center"> 
+                                                                            <input type="checkbox" value="" class="checkbox">Elegir
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>      
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="col-md-12">
+                                                <div class="col-md-4">
+                                                     <div class="form-group">
+                                                        <label>Color</label>
+                                                        <select class="form-control">
+                                                            <option>One Vale</option>
+                                                            <option>Two Vale</option>
+                                                            <option>Three Vale</option>
+                                                            <option>Four Vale</option>
+                                                        </select>
+                                                    </div>                                                
+                                                </div>
+                                                <div class="col-md-4">
+                                                     <div class="form-group">
+                                                        <label>Talla</label>
+                                                        <select class="form-control">
+                                                            <option>One Vale</option>
+                                                            <option>Two Vale</option>
+                                                            <option>Three Vale</option>
+                                                            <option>Four Vale</option>
+                                                        </select>
+                                                    </div>                                                
+                                                </div>
+                                                <div class="col-md-4">
+                                                     <div class="form-group">
+                                                        <label>Cantidad</label>
+                                                        <select class="form-control">
+                                                            <option>One Vale</option>
+                                                            <option>Two Vale</option>
+                                                            <option>Three Vale</option>
+                                                            <option>Four Vale</option>
+                                                        </select>
+                                                    </div>                                                
+                                                </div>                                                
+                                            </div>
+                                            </div>
+                                            </div>
+
+                                        </div>                                  
+                                        
+                                        <br>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default">Agregar</button>
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal">Cancelar</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+    </section>
+    <section id="modalSerchCustomer">
+                                    <div class="modal fade" id="searchCust" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title" id="myModalLabel"><i class="fa fa-list fa-1x"></i> Listado de Clientes Registrados</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            <div class="panel-body">
+                                                <div class="table-responsive">
+                                                    <table class="table table-striped table-bordered table-hover" id="dataTables-example4">
+                                                        <thead>
+                                                            <tr>
+                                                                <th>Cta. Cte</th>
+                                                                <th>Razón Social</th>                                            
+                                                                <th>R.U.C.</th>                                                                
+                                                                <th><center>Menú Opciones</center></th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                            <tr class="odd gradeX">
+                                                                <td>Trident</td>
+                                                                <td>Internet Explorer 4.0</td>
+                                                                <td>Win 95+</td>                                                                
+                                                                <td class="center"> 
+                                                                    <input type="checkbox" value="" class="checkbox"> Elegir
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="even gradeC">
+                                                                <td>Trident</td>
+                                                                <td>Internet Explorer 5.0</td>
+                                                                <td>Win 95+</td>                                                                
+                                                                <td class="center"> 
+                                                                    <input type="checkbox" value="" class="checkbox"> Elegir
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="odd gradeA">
+                                                                <td>Trident</td>
+                                                                <td>Internet Explorer 5.5</td>
+                                                                <td>Win 95+</td>                                                                
+                                                                <td class="center">                                                                   
+                                                                    <input type="checkbox" value="" class="checkbox"> Elegir
+                                                                </td>
+                                                            </tr>
+                                                            <tr class="even gradeA">
+                                                                <td>Trident</td>
+                                                                <td>Internet Explorer 6</td>
+                                                                <td>Win 98+</td>                                                                
+                                                                <td class="center"> 
+                                                                    <input type="checkbox" value="" class="checkbox"> Elegir
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>      
+                                            </div>
+                                        </div>
+                                        <br>
+
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-default">Aceptar</button>
+                                           <button type="button" class="btn btn-primary" data-dismiss="modal">Cerrar</button>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+    </section>
+
+    <section id="modalUpdateCalendar">
+                                        <div class="modal fade" id="updateCalendar" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                                <h4 class="modal-title" id="myModalLabel"><i class="fa fa-calendar fa-1x"></i> Actualización de Cronograma Pago</h4>
+                                            </div>
+                                            <div class="modal-body">
+                                                <!--
+                                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                            -->                       
+
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="col-md-3">                                                
+                                                         <div class="form-group">
+                                                            <label>N° Cuotas</label>
+                                                            <select class="form-control">
+                                                                <option>1</option>
+                                                                <option>2</option>
+                                                                <option>3</option>
+                                                                <option>4</option>
+                                                            </select>
+                                                        </div>                                                
+                                                    </div>
+                                                    <div class="col-md-3">                                                
+                                                         <div class="form-group">
+                                                            <label>Monto a Pagar</label>
+                                                            <select class="form-control">
+                                                                <option>5</option>
+                                                                <option>25</option>
+                                                                <option>50</option>
+                                                                <option>100</option>
+                                                            </select>
+                                                        </div>                                                
+                                                    </div>  
+                                                    <div class="col-md-6">
+                                                        <label>Fecha de Pago</label>                                                       
+                                                        <input id="datepicker1" class="form-control" type="text" disabled="">
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            </div>
+                                            <br>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+                                                <button type="button" class="btn btn-primary">Guardar</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+        </section>
+        <section id="modalCheckControlsItem">        
+                                <div class="modal fade" id="checkControlsItem" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                                    <div class="modal-dialog">
+                                        <div class="modal-content">
+                                            <div class="modal-header">
+                                                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                                <h4 class="modal-title" id="myModalLabel"><i class="fa fa-times fa-1x"></i> Mensaje</h4>
+                                            </div>
+                                            <div class="modal-body">                                            
+                                                Su formulario contiene algunas casillas vacías,
+                                                recuerde que los campos con (*) deben ser llenados obligatoriamente,
+                                                corrija para poder continuar.
+                                                <!--Su documento se ha guardado exitosamente<br>
+                                                ¿ Desea Imprimir su documento ?-->
+                                            </div>
+                                            <div class="modal-footer">
+                                                <button type="button" class="btn btn-default" >Si</button>
+                                                <button type="button" class="btn btn-primary" data-dismiss="modal">No</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+        </section>
+
+
+
+    <!-- Map Section -->
+    <div id="map"></div>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container text-center">
+            <p>Copyright &copy; Your Website 2014</p>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <!--<script src="assets/js/jquery.js"></script>-->
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="assets/js/jquery.easing.min.js"></script>
+
+    <!-- Google Maps API Key - Use your own API key to enable the map feature. More information on the Google Maps API can be found at https://developers.google.com/maps/ -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRngKslUGJTlibkQ3FkfTxj3Xss1UlZDA&sensor=false"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="assets/js/grayscale.js"></script>
+
+         <!-- DATA TABLE SCRIPTS -->
+    <script src="assets/dataTables/jquery.dataTables.js"></script>
+    <script src="assets/dataTables/dataTables.bootstrap.js"></script>
+        <script>
+            $(document).ready(function () {
+                $('#dataTables-example').dataTable();
+                $('#dataTables-example1').dataTable();
+                $('#dataTables-example2').dataTable();
+                $('#dataTables-example3').dataTable();
+                $('#dataTables-example4').dataTable();
+            });
+    </script>
+
+</body>
+
+</html>

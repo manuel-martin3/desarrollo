@@ -1,0 +1,146 @@
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet\LayerBusinessLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\ErpBapSoftNet\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessLogic\obj\Debug\LayerBusinessLogic.pdb

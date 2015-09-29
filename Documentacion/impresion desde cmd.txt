@@ -1,0 +1,26 @@
+Microsoft Windows [Versión 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
+
+
+C:\>NET USE LPT1: \\192.168.1.241\lp001 /persistent:yes
+Se ha completado el comando correctamente.
+
+
+C:\>NET USE
+Se registrarán las nuevas conexiones.
+
+
+Estado       Local     Remoto                    Red
+
+-------------------------------------------------------------------------------
+Conectado    G:        \\192.168.1.5\CONTAB      Microsoft Windows Network
+Conectado    J:        \\192.168.1.5\pieers      Microsoft Windows Network
+Conectado    LPT1      \\192.168.1.241\lp001     Microsoft Windows Network
+Desconectado           \\192.168.1.6\c$          Microsoft Windows Network
+Desconectado           \\192.168.1.136\IPC$      Microsoft Windows Network
+Se ha completado el comando correctamente.
+
+
+C:\>TYPE reportebarcode.txt > lpt1
+
+C:\>

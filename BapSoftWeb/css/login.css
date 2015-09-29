@@ -1,0 +1,188 @@
+body {
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: #0066A6;
+	
+	/*MODAL*/
+	 font: 11px Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+}
+#layer01_holder {
+	width:563px;
+	height:157px;
+	margin:auto;
+}
+#layer01_holder #left {
+	background-image:url(../images/loginpage_02.jpg);
+	background-repeat:no-repeat;
+	width:96px;
+	height:157px;
+	float:left;
+	display:block;
+}
+#layer01_holder #center {
+	background-image:url(../images/loginpage_03.jpg);
+	background-repeat:no-repeat;
+	width:220px;
+	height:157px;
+	float:left;
+	display:block;
+}
+#layer01_holder #right {
+	background-image:url(../images/loginpage_04.jpg);
+	background-repeat:no-repeat;
+	width:247px;
+	height:157px;
+	float:left;
+	display:block;
+}
+#layer02_holder {
+	width:563px;
+	height:164px;
+	margin:auto;
+}
+#layer02_holder #left {
+	background-image:url(../images/loginpage_06.jpg);
+	background-repeat:no-repeat;
+	width:96px;
+	height:164px;
+	float:left;
+	display:block;
+}
+#layer02_holder #center {
+	background-image:url(../images/loginpage_07.jpg);
+	background-repeat:no-repeat;
+	width:220px;
+	height:164px;
+	float:left;
+	display:block;
+}
+#layer02_holder #right {
+	background-image:url(../images/loginpage_08.jpg);
+	background-repeat:no-repeat;
+	width:247px;
+	height:164px;
+	float:left;
+	display:block;
+}
+#layer03_holder {
+	width:563px;
+	height:124px;
+	margin:auto;
+}
+#layer03_holder #left {
+	background-image:url(../images/loginpage_09.jpg);
+	background-repeat:no-repeat;
+	width:96px;
+	height:124px;
+	float:left;
+	display:block;
+}
+#layer03_holder #center {
+	background-image:url(../images/loginpage_10.jpg);
+	background-repeat:no-repeat;
+	width:220px;
+	height:124px;
+	float:left;
+	display:block;
+	font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+}
+#layer03_holder #right {
+	background-image:url(../images/loginpage_11.jpg);
+	background-repeat:no-repeat;
+	width:247px;
+	height:124px;
+	float:left;
+	display:block;
+}
+#layer04_holder {
+	width:563px;
+	height:115px;
+	margin:auto;
+}
+#layer04_holder #left {
+	background-image:url(../images/loginpage_12.jpg);
+	background-repeat:no-repeat;
+	width:96px;
+	height:115px;
+	float:left;
+	display:block;
+}
+
+#layer04_holder #center {
+	background-image:url(../images/loginpage_13.jpg);
+	background-repeat:no-repeat;
+	width:220px;
+	height:115px;
+	float:left;
+	display:block;
+	text-align:left;
+	padding-top:35px;
+	margin-bottom:-35px;
+	color: #FFFFFF;
+	font-size: 11px;
+	font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+}
+#layer04_holder #center a:link, a:visited {
+	color: #FFFF00;
+	text-decoration:none;
+}
+#layer04_holder #center a:hover {
+	color: #FF9900;
+	text-decoration:underline;
+}
+#layer04_holder #right {
+	background-image:url(../images/loginpage_14.jpg);
+	background-repeat:no-repeat;
+	width:247px;
+	height:115px;
+	float:left;
+	display:block;
+}
+#layer05_holder {
+	width:563px;
+	height:auto;
+	margin:auto;
+	color: #CCCCCC;
+	font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	padding-left: 125px;
+}
+#layer03_holder #center form {
+	text-align:justify;
+	margin:0px;
+}
+#layer03_holder #center label {
+	font-size:10px;
+	color: #FFFFFF;
+}
+.text_form {
+	background-color:#454544;
+	border:solid 1px #d2d0b5;
+	color: #FFFFFF;
+	margin:0px;
+}
+.cbo_form {
+	background-color:#454544;
+	border:solid 1px #d2d0b5;
+	color: #FFFFFF;
+	margin:0px;
+}
+.button_form {
+	margin-top:5px;
+	background-color: #FFFFFF;
+	border: 1px solid  #454544;
+	color: #006699;
+	margin-left: 85px;
+	right: 0px;
+	font-weight: bold;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.button_form:hover {
+	background-color: #CCCCCC;
+}

@@ -1,0 +1,282 @@
+/**
+ * Copyright 2012 Evernote Corporation.
+ *
+ * Shared header layout.
+ */
+label.left {
+  float: left;
+  margin-right: 4px;
+  padding-top: 8px;
+}
+
+label.right {
+  float: right;
+  margin-left: 4px;
+  padding-top: 8px;
+}
+
+.header .nav {
+  background-color: #2e7044;
+  border-bottom: #2e7044;
+  display:block;
+  font-size: 11px;
+  font-weight: bold;
+  height: 32px;
+}
+
+.header .nav .left {
+  float: left;
+  height: 100%;
+}
+
+.header .nav .right {
+  display: block;
+  float: right;
+  height: 100%;
+}
+
+.nav .left a:last-child span, .nav .right a:last-child span {
+  border: none;
+}
+
+.nav a, .nav a:link, .nav a:visited {
+  color:#EBEBEB;
+  display: inline-block;
+  font-weight: bold;
+  height: 24px;
+  line-height: 18px;
+  margin-right: 0.1px; /* Needed for IE8 - WEB-5557 */
+  padding-top: 7px;
+  text-decoration: none;
+}
+
+.nav a span {
+  border-right: 1px solid #4d8d63;
+  padding: 0 8px;
+}
+
+.nav a:hover, .nav a:active {
+  color: #F5F5F5;
+}
+
+.nav a.last, .nav a:link.last span, .nav a:visited.last span {
+  border: none;
+}
+
+.nav ul li {
+  display: block;
+  float: left;
+  list-style: none;
+  position: relative;
+}
+
+.nav .settings a, .nav .settings a:link, .nav .settings a:visited {
+  background: url('/redesign/global/img/user-icon.png') 0 0 transparent scroll no-repeat;
+  border-right: none;
+  display: inline-block;
+  height: 16px;
+  text-indent: -9999px;
+  width: 16px;
+}
+
+.nav ul li.settings:hover ul.dropdown {
+  left: -100px;
+}
+
+.logo-bar {
+  border: 1px solid #184b7f;
+  background: #1c5691;
+  background: -moz-linear-gradient(top, #1c5691 0%, #083460 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#1c5691), color-stop(100%,#083460));
+  background: -webkit-linear-gradient(top, #1c5691 0%,#083460 100%);
+  background: -o-linear-gradient(top, #1c5691 0%,#083460 100%);
+  background: -ms-linear-gradient(top, #1c5691 0%,#083460 100%);
+  background: linear-gradient(top, #1c5691 0%,#083460 100%);
+  border-bottom: 1px solid #1c5691;
+  height: 50px;
+  width: 100%;
+}
+
+.logo-bar .evernote-logo {
+  background: url('/redesign/global/img/evernote-logo-right-text.png') 0 0 transparent scroll no-repeat;
+  display: block;
+  float: left;
+  height: 32px;
+  text-indent: -9999px;
+  width: 146px;
+  margin-top: 11px;
+  margin-left: 6px;
+}
+
+.logo-bar .back-btn {
+  color: #3B3B3B;
+  float: right;
+  height: 16px;
+  margin: 8px;
+  padding: 8px 12px;
+  text-decoration: none;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #B2B2B2;
+  background: #F7F7F7;
+  background: -moz-linear-gradient(top, #F6F6F6 0%, #E6E6E6 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#F6F6F6), color-stop(100%,#E6E6E6));
+  background: -webkit-linear-gradient(top, #F6F6F6 0%,#E6E6E6 100%);
+  background: -o-linear-gradient(top, #F6F6F6 0%,#E6E6E6 100%);
+  background: -ms-linear-gradient(top, #F6F6F6 0%,#E6E6E6 100%);
+  background: linear-gradient(top, #F6F6F6 0%,#E6E6E6 100%);
+}
+
+.logo-bar .back-btn:hover {
+  border: 1px solid #a4a4a4;
+  color: #2B2B2B;
+  background: -moz-linear-gradient(top, #EFEFEF 0%, #DDDDDD 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#EFEFEF), color-stop(100%,#DDDDDD));
+  background: -webkit-linear-gradient(top, #EFEFEF 0%,#DDDDDD 100%);
+  background: -o-linear-gradient(top, #EFEFEF 0%,#DDDDDD 100%);
+  background: -ms-linear-gradient(top, #EFEFEF 0%,#DDDDDD 100%);
+  background: linear-gradient(top, #EFEFEF 0%,#DDDDDD 100%);
+}
+
+.back-btn{
+ display: block;
+}
+
+.logo-bar h1 {
+  border-left: 1px solid #B3B3B3;
+  color: #5fb336;
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 200;
+  font-weight: normal;
+  margin: 18px 0 0 12px;
+  padding-left: 12px;
+}
+
+.logobar-username {
+  float: right;
+  margin: 8px;
+  padding: 8px 12px;
+}
+
+.gear-dropdown {
+  float: right;
+  height: 31px;
+  padding-right: 10px;
+}
+
+.gear-dropdown a, .gear-dropdown a:link, .gear-dropdown a:visited {
+  cursor: pointer;
+  line-height: 28px;
+  height: 28px;
+  padding: 2px 8px 0;
+}
+
+.gear-dropdown-user {
+  float: right;
+}
+
+.gear-dropdown-gear {
+  background-image: url("/redesign/global/img/user-icon.png");
+  background-repeat: no-repeat;
+  width: 15px;
+  height: 15px;
+}
+
+.gear-dropdown-gear.active {
+  background-image: url("/redesign/global/img/user-icon-hover.png");
+}
+
+.gear-dropdown-bbox {
+  border: 1px solid transparent;
+  cursor: pointer;
+  float: right;
+  margin-top: 2px;
+  padding: 5px 5px 3px 5px;
+}
+
+/* Toggled by javascript */
+.gear-dropdown-bbox.active {
+  background: #F7F7F7;
+  border: 1px solid #898989;
+  border-bottom-width: 0;
+  -moz-border-radius: 2px 2px 0px 0px;
+  -webkit-border-radius: 2px 2px 0px 0px;
+  border-radius: 2px 2px 0px 0px;
+  position: relative;
+  z-index: 9999;
+}
+
+.gear-dropdown-menu-tab {
+  display: block;
+  top: -25px;
+  right: -1px;
+  width: 25px;
+  height: 24px;
+  z-index: 101;
+  border-bottom-width: 0px;
+  -moz-border-radius: 2px 2px 0px 0px;
+  border-radius: 2px 2px 0px 0px;
+}
+
+.gear-dropdown-menu {
+  background-color: #F7F7F7;
+  border-color: #898989;
+  border-style: solid;
+  border-width: 1px;
+  display: none;
+  min-width: 150px;
+  position: absolute;
+  right: 10px;
+  top: 25px;
+  z-index: 9998;
+  -moz-border-radius: 2px 0px 2px 2px;
+  -webkitborder-radius: 2px 0px 2px 2px;
+  border-radius: 2px 0px 2px 2px;
+  -webkit-box-shadow:0px 1px 1px rgba(0, 0, 0, .2);
+  -moz-box-shadow:0px 1px 1px rgba(0, 0, 0, .2);
+  box-shadow:0px 1px 1px rgba(0, 0, 0, .2);
+}
+
+.gear-dropdown-menu a, .gear-dropdown-menu a:link, .gear-dropdown-menu a:visited {
+  border-width: 0px;
+  color: #898989;
+  display: block;
+  white-space: nowrap;
+}
+
+.gear-dropdown-menu a:hover {
+  background-color: #E0EAEB;
+}
+
+.gear-dropdown-menu a.last {
+  margin-bottom: 6px;
+}
+
+.gear-dropdown-divider {
+  display: block;
+  border-right-width: 0px;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #898989;
+  margin: 8px;
+  height: 0px;
+}
+
+@media only screen and (max-width: 479px) and (min-width: 320px) {
+  .header .nav{
+    display: none;
+  }
+  .logobar-username{
+    display:none;
+  }
+  .back-btn{
+    display:none;
+  }
+}
+
+@media only screen and (max-width: 640px) and (min-width: 480px) {
+  .header .nav{
+    display: none;
+  }
+}

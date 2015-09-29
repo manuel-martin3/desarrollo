@@ -1,0 +1,161 @@
+/*************************************************************************************************
+ * Actividad 20050052 - INFOPLUS - Boletin Oficial                                    20/07/2005 *
+ * Actividad 20051161 - INFOPLUS - Multiversion                                       11/08/2005 *
+ ************************************************************************************************/
+ body
+ {
+     margin-top:0px;
+     padding-top:0px;
+ }
+#tabla_grupo  {
+    width: 645px;
+}
+#tabla_button  {
+    display: none;
+}
+.cuadro_ancho {
+    width: 602px;
+}
+.TitReporte {
+	font-family: "Courier New";
+	font-size: 16px;
+	font-weight: bold;
+}
+.TitInforme {
+    FONT: bold 12px/normal Verdana, Helvetica;
+}
+.CeldaGrupo{
+    FONT: bold 16px/normal Courier New;
+    padding: 10px 1px 3px 4px;
+}
+.TitProducto {
+    FONT: bold 11px/normal Courier New;
+    TEXT-DECORATION: none;
+}
+.TitProducto12 {
+    FONT: bold 12px/normal Courier New;
+    TEXT-DECORATION: none;
+    border:2px;	
+}
+.borde_doc {
+    FONT: bold 12px/normal Courier New;
+    TEXT-DECORATION: none;
+    border:1.5px solid #000000;	
+}
+.TitProdIdenti {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    border: 1px;
+    TEXT-DECORATION: underline;
+}
+.TitProdRating {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.TitProdEndeud {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.TitProdInfNeg {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.TitProdCarMor {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.TitProdInfLeg {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.TitProdOtros {
+    FONT: bold 13px/normal Courier New;
+    padding: 10px 1px 1px 3px; 
+    TEXT-DECORATION: underline;
+}
+.ThProt{
+    font-weight: bold;
+}
+.ThAcla{
+    font-weight: bold;
+}
+.ThNoAcla{
+    font-weight: bold;
+}
+.TdAcla{
+    color: #000000;
+}
+.TdNoAcla{
+    color: #000000;
+}
+.ThOTros{
+    FONT: bold 11px/normal Courier New;
+}
+.TxtTexto11 {
+    FONT: normal 11px/normal Courier New;
+}
+.TxtTexto12 {
+    FONT: normal 12px/normal Courier New;
+    color: #000000;
+}
+.text {
+    FONT: normal 11px/normal Courier New;
+    TEXT-TRANSFORM: uppercase;
+}
+.TxtEnlace {
+   FONT: 12px/normal Courier New;
+}
+.TxtCremaOff {
+    FONT: normal 11px/normal Courier New;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px solid #C0C0C0;
+}
+.TxtCremaOn {
+    FONT: normal 11px/normal Courier New;
+    color: #000000;
+    background-color: #EEEEEE;
+    border: 1px solid #C0C0C0;
+}
+.NumeroScore {
+    FONT: bold 22px/normal Courier New;
+}
+.SinInformacion {
+    FONT: normal 11px/normal Courier New;
+}
+.Limitacion {
+    FONT: bold 10px/normal Courier New;
+}
+.Error{
+    FONT: bold 11px/normal Courier New;
+}
+.nota{
+    FONT: bold 11px/normal Courier New;
+}
+.NumOpe {
+    FONT: normal 10px/normal Courier New;
+    COLOR: #000000;
+    TEXT-DECORATION: none
+}
+.InfAgrup{
+    FONT: bold 13px/normal Courier New;
+    TEXT-DECORATION: underline;
+}
+.lnkImprimir {
+   FONT: 9px/normal Courier New;
+   TEXT-DECORATION: none;
+}
+.lnkImprimir:hover {
+   FONT: 9px/normal Courier New;
+   TEXT-DECORATION: underline;
+}
+.button {
+   FONT: bold 12px/normal Courier New;
+   width: 90px; 
+   padding: 1px; 
+}

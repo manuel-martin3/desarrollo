@@ -1,0 +1,125 @@
+C:\ErpBapSoftNet\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet\LayerDataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\ErpBapSoftNet\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\bin\Debug\BlowFishCS.1.0.0.0.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\obj\Debug\LayerDataAccess.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\obj\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerDataAccess\obj\Debug\LayerDataAccess.pdb

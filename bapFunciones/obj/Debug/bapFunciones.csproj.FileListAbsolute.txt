@@ -1,0 +1,205 @@
+C:\ErpBapSoftNet\bapFunciones\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet\bapFunciones\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet\bapFunciones\obj\Debug\ResolveAssemblyReference.cache
+C:\ErpBapSoftNet\bapFunciones\obj\Debug\bapFunciones.dll
+C:\ErpBapSoftNet\bapFunciones\obj\Debug\bapFunciones.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.pdb
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.dll
+C:\Users\mayte\Documents\Visual Studio 2012\Projects\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.dll
+D:\BACKUP-BAPSISTEMAS\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.dll
+D:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_17_06_2015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\obj\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\obj\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen_20_06_2015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\BlowFishCS.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+C:\ErpBapSoftNet_almacen\bapFunciones\bin\Debug\LayerDataAccess.pdb
+C:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+C:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.dll
+C:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.pdb
+C:\ErpBapSoftNet_almacen\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen16092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen22092015 - 2\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen23092015\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen25092015\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\bapFunciones\obj\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\bapFunciones.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\Microsoft.Office.Interop.Excel.Fakes.fakesconfig
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusinessLogic.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerDataAccess.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\BlowFishCS.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.pdb

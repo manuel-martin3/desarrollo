@@ -1,0 +1,347 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlowFishCS.1.0.0.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:BlowFishCS.Fakes.ShimBlowFish">
+            <summary>Shim type of BlowFishCS.BlowFish</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.ShimBlowFish.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.ShimBlowFish.#ctor(BlowFishCS.BlowFish)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.ShimBlowFish.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.ShimBlowFish.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.BlockDecryptByteArrayRef">
+            <summary>Sets the shim of BlowFish.BlockDecrypt(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.BlockEncryptByteArrayRef">
+            <summary>Sets the shim of BlowFish.BlockEncrypt(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.ByteToHexByteArray">
+            <summary>Sets the shim of BlowFish.ByteToHex(Byte[] bytes)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.ConstructorByteArray">
+            <summary>Sets the shim of BlowFish.BlowFish(Byte[] cipherKey)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.ConstructorString">
+            <summary>Sets the shim of BlowFish.BlowFish(String hexKey)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Crypt_CBCByteArrayBoolean">
+            <summary>Sets the shim of BlowFish.Crypt_CBC(Byte[] text, Boolean decrypt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Crypt_CTRByteArrayInt32">
+            <summary>Sets the shim of BlowFish.Crypt_CTR(Byte[] text, Int32 numThreads)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Crypt_ECBByteArrayBoolean">
+            <summary>Sets the shim of BlowFish.Crypt_ECB(Byte[] text, Boolean decrypt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Decrypt_CBCByteArray">
+            <summary>Sets the shim of BlowFish.Decrypt_CBC(Byte[] ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Decrypt_CBCString">
+            <summary>Sets the shim of BlowFish.Decrypt_CBC(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Decrypt_CTRString">
+            <summary>Sets the shim of BlowFish.Decrypt_CTR(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Decrypt_ECBByteArray">
+            <summary>Sets the shim of BlowFish.Decrypt_ECB(Byte[] ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Decrypt_ECBString">
+            <summary>Sets the shim of BlowFish.Decrypt_ECB(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Encrypt_CBCByteArray">
+            <summary>Sets the shim of BlowFish.Encrypt_CBC(Byte[] pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Encrypt_CBCString">
+            <summary>Sets the shim of BlowFish.Encrypt_CBC(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Encrypt_CTRString">
+            <summary>Sets the shim of BlowFish.Encrypt_CTR(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Encrypt_ECBByteArray">
+            <summary>Sets the shim of BlowFish.Encrypt_ECB(Byte[] pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.Encrypt_ECBString">
+            <summary>Sets the shim of BlowFish.Encrypt_ECB(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.GetBlockByteArrayRef">
+            <summary>Sets the shim of BlowFish.GetBlock(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.GetHexChar">
+            <summary>Sets the shim of BlowFish.GetHex(Char x)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.HexToByteString">
+            <summary>Sets the shim of BlowFish.HexToByte(String hex)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.IVGet">
+            <summary>Sets the shim of BlowFish.get_IV()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.IVSetByteArray">
+            <summary>Sets the shim of BlowFish.set_IV(Byte[] value)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.NonStandardGet">
+            <summary>Sets the shim of BlowFish.get_NonStandard()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.NonStandardSetBoolean">
+            <summary>Sets the shim of BlowFish.set_NonStandard(Boolean value)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetBlockByteArray">
+            <summary>Sets the shim of BlowFish.SetBlock(Byte[] block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetRandomIV">
+            <summary>Sets the shim of BlowFish.SetRandomIV()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupKeyByteArray">
+            <summary>Sets the shim of BlowFish.SetupKey(Byte[] cipherKey)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupP">
+            <summary>Sets the shim of BlowFish.SetupP()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupS0">
+            <summary>Sets the shim of BlowFish.SetupS0()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupS1">
+            <summary>Sets the shim of BlowFish.SetupS1()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupS2">
+            <summary>Sets the shim of BlowFish.SetupS2()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.SetupS3">
+            <summary>Sets the shim of BlowFish.SetupS3()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.decipher">
+            <summary>Sets the shim of BlowFish.decipher()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.encipher">
+            <summary>Sets the shim of BlowFish.encipher()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.roundUInt32UInt32UInt32">
+            <summary>Sets the shim of BlowFish.round(UInt32 a, UInt32 b, UInt32 n)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.wordByte0UInt32">
+            <summary>Sets the shim of BlowFish.wordByte0(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.wordByte1UInt32">
+            <summary>Sets the shim of BlowFish.wordByte1(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.wordByte2UInt32">
+            <summary>Sets the shim of BlowFish.wordByte2(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.wordByte3UInt32">
+            <summary>Sets the shim of BlowFish.wordByte3(UInt32 w)</summary>
+        </member>
+        <member name="T:BlowFishCS.Fakes.ShimBlowFish.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.BlockDecryptByteArrayRef">
+            <summary>Sets the shim of BlowFish.BlockDecrypt(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.BlockEncryptByteArrayRef">
+            <summary>Sets the shim of BlowFish.BlockEncrypt(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.ByteToHexByteArray">
+            <summary>Sets the shim of BlowFish.ByteToHex(Byte[] bytes)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Crypt_CBCByteArrayBoolean">
+            <summary>Sets the shim of BlowFish.Crypt_CBC(Byte[] text, Boolean decrypt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Crypt_CTRByteArrayInt32">
+            <summary>Sets the shim of BlowFish.Crypt_CTR(Byte[] text, Int32 numThreads)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Crypt_ECBByteArrayBoolean">
+            <summary>Sets the shim of BlowFish.Crypt_ECB(Byte[] text, Boolean decrypt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Decrypt_CBCByteArray">
+            <summary>Sets the shim of BlowFish.Decrypt_CBC(Byte[] ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Decrypt_CBCString">
+            <summary>Sets the shim of BlowFish.Decrypt_CBC(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Decrypt_CTRString">
+            <summary>Sets the shim of BlowFish.Decrypt_CTR(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Decrypt_ECBByteArray">
+            <summary>Sets the shim of BlowFish.Decrypt_ECB(Byte[] ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Decrypt_ECBString">
+            <summary>Sets the shim of BlowFish.Decrypt_ECB(String ct)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Encrypt_CBCByteArray">
+            <summary>Sets the shim of BlowFish.Encrypt_CBC(Byte[] pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Encrypt_CBCString">
+            <summary>Sets the shim of BlowFish.Encrypt_CBC(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Encrypt_CTRString">
+            <summary>Sets the shim of BlowFish.Encrypt_CTR(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Encrypt_ECBByteArray">
+            <summary>Sets the shim of BlowFish.Encrypt_ECB(Byte[] pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.Encrypt_ECBString">
+            <summary>Sets the shim of BlowFish.Encrypt_ECB(String pt)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.GetBlockByteArrayRef">
+            <summary>Sets the shim of BlowFish.GetBlock(Byte[]&amp; block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.GetHexChar">
+            <summary>Sets the shim of BlowFish.GetHex(Char x)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.HexToByteString">
+            <summary>Sets the shim of BlowFish.HexToByte(String hex)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.IVGet">
+            <summary>Sets the shim of BlowFish.get_IV()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.IVSetByteArray">
+            <summary>Sets the shim of BlowFish.set_IV(Byte[] value)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.NonStandardGet">
+            <summary>Sets the shim of BlowFish.get_NonStandard()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.NonStandardSetBoolean">
+            <summary>Sets the shim of BlowFish.set_NonStandard(Boolean value)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetBlockByteArray">
+            <summary>Sets the shim of BlowFish.SetBlock(Byte[] block)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetRandomIV">
+            <summary>Sets the shim of BlowFish.SetRandomIV()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupKeyByteArray">
+            <summary>Sets the shim of BlowFish.SetupKey(Byte[] cipherKey)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupP">
+            <summary>Sets the shim of BlowFish.SetupP()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupS0">
+            <summary>Sets the shim of BlowFish.SetupS0()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupS1">
+            <summary>Sets the shim of BlowFish.SetupS1()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupS2">
+            <summary>Sets the shim of BlowFish.SetupS2()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.SetupS3">
+            <summary>Sets the shim of BlowFish.SetupS3()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.decipher">
+            <summary>Sets the shim of BlowFish.decipher()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.encipher">
+            <summary>Sets the shim of BlowFish.encipher()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.roundUInt32UInt32UInt32">
+            <summary>Sets the shim of BlowFish.round(UInt32 a, UInt32 b, UInt32 n)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.wordByte0UInt32">
+            <summary>Sets the shim of BlowFish.wordByte0(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.wordByte1UInt32">
+            <summary>Sets the shim of BlowFish.wordByte1(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.wordByte2UInt32">
+            <summary>Sets the shim of BlowFish.wordByte2(UInt32 w)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.ShimBlowFish.AllInstances.wordByte3UInt32">
+            <summary>Sets the shim of BlowFish.wordByte3(UInt32 w)</summary>
+        </member>
+        <member name="T:BlowFishCS.Fakes.Shimlicenserver">
+            <summary>Shim type of BlowFishCS.licenserver</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Shimlicenserver.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Shimlicenserver.#ctor(BlowFishCS.licenserver)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Shimlicenserver.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Shimlicenserver.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.ConstructorStringStringStringString">
+            <summary>Sets the shim of licenserver.licenserver(String pServer, String pDatabase, String pUser, String pPassword)</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.currentlicense">
+            <summary>Sets the shim of licenserver.currentlicense()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.diasporvencer">
+            <summary>Sets the shim of licenserver.diasporvencer()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.licconexion">
+            <summary>Sets the shim of licenserver.licconexion()</summary>
+        </member>
+        <member name="T:BlowFishCS.Fakes.Shimlicenserver.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.AllInstances.currentlicense">
+            <summary>Sets the shim of licenserver.currentlicense()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.AllInstances.diasporvencer">
+            <summary>Sets the shim of licenserver.diasporvencer()</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Shimlicenserver.AllInstances.licconexion">
+            <summary>Sets the shim of licenserver.licconexion()</summary>
+        </member>
+        <member name="T:BlowFishCS.Fakes.StubBlowFish">
+            <summary>Stub type of BlowFishCS.BlowFish</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.StubBlowFish.#ctor(System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.StubBlowFish.#ctor(System.Byte[])">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.StubBlowFish.InitializeStub">
+            <summary>Initializes a new instance of type StubBlowFish</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.StubBlowFish.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.StubBlowFish.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.StubBlowFish.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:BlowFishCS.Fakes.Stublicenserver">
+            <summary>Stub type of BlowFishCS.licenserver</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Stublicenserver.#ctor(System.String,System.String,System.String,System.String)">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:BlowFishCS.Fakes.Stublicenserver.InitializeStub">
+            <summary>Initializes a new instance of type Stublicenserver</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Stublicenserver.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Stublicenserver.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:BlowFishCS.Fakes.Stublicenserver.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.BlowFishCSDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of BlowFishCS</summary>
+        </member>
+    </members>
+</doc>

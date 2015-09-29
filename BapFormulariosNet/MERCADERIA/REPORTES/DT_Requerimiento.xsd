@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="data" targetNamespace="http://tempuri.org/data.xsd" xmlns:mstns="http://tempuri.org/data.xsd" xmlns="http://tempuri.org/data.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="data" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="data" msprop:Generator_UserDSName="data">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DT_Requerimiento" msprop:Generator_TableClassName="DT_RequerimientoDataTable" msprop:Generator_TableVarName="tableDT_Requerimiento" msprop:Generator_TablePropName="DT_Requerimiento" msprop:Generator_RowDeletingName="DT_RequerimientoRowDeleting" msprop:Generator_RowChangingName="DT_RequerimientoRowChanging" msprop:Generator_RowEvHandlerName="DT_RequerimientoRowChangeEventHandler" msprop:Generator_RowDeletedName="DT_RequerimientoRowDeleted" msprop:Generator_UserTableName="DT_Requerimiento" msprop:Generator_RowChangedName="DT_RequerimientoRowChanged" msprop:Generator_RowEvArgName="DT_RequerimientoRowChangeEvent" msprop:Generator_RowClassName="DT_RequerimientoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="items" msprop:Generator_ColumnVarNameInTable="columnitems" msprop:Generator_ColumnPropNameInRow="items" msprop:Generator_ColumnPropNameInTable="itemsColumn" msprop:Generator_UserColumnName="items" type="xs:string" minOccurs="0" />
+              <xs:element name="productid" msprop:Generator_ColumnVarNameInTable="columnproductid" msprop:Generator_ColumnPropNameInRow="productid" msprop:Generator_ColumnPropNameInTable="productidColumn" msprop:Generator_UserColumnName="productid" type="xs:string" minOccurs="0" />
+              <xs:element name="productname" msprop:Generator_ColumnVarNameInTable="columnproductname" msprop:Generator_ColumnPropNameInRow="productname" msprop:Generator_ColumnPropNameInTable="productnameColumn" msprop:Generator_UserColumnName="productname" type="xs:string" minOccurs="0" />
+              <xs:element name="stock" msprop:Generator_ColumnVarNameInTable="columnstock" msprop:Generator_ColumnPropNameInRow="stock" msprop:Generator_ColumnPropNameInTable="stockColumn" msprop:Generator_UserColumnName="stock" type="xs:string" minOccurs="0" />
+              <xs:element name="unmedenvase" msprop:Generator_ColumnVarNameInTable="columnunmedenvase" msprop:Generator_ColumnPropNameInRow="unmedenvase" msprop:Generator_ColumnPropNameInTable="unmedenvaseColumn" msprop:Generator_UserColumnName="unmedenvase" type="xs:string" minOccurs="0" />
+              <xs:element name="cantidad" msprop:Generator_ColumnVarNameInTable="columncantidad" msprop:Generator_ColumnPropNameInRow="cantidad" msprop:Generator_ColumnPropNameInTable="cantidadColumn" msprop:Generator_UserColumnName="cantidad" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

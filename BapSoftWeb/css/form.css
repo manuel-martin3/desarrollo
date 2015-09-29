@@ -1,0 +1,1597 @@
+﻿/* AGREGADOS*/
+
+
+
+/* DEFAULTS
+----------------------------------------------------------*/
+html
+{
+    height: 100%;
+}
+
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #d1d1d1 url("../images/background.png") repeat;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-size: 11px; /*MODAL*/
+    font: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+}
+
+/* -----------------------------------------------------------
+	SCROLL DE DIV 
+----------------------------------------------------------- */
+.grid_scroll
+{
+    scrollbar-face-color: #313131;
+    scrollbar-highlight-color: #cc2f08;
+    scrollbar-3dlight-color: #8b2107;
+    scrollbar-darkshadow-color: #d03008;
+    scrollbar-shadow-color: #d03008;
+    scrollbar-arrow-color: #fafcfe;
+    scrollbar-track-color: #d03008;
+}
+
+/* -----------------------------------------------------------
+	TABLA MAIN DE DE FORMULARIO
+----------------------------------------------------------- */
+
+.tabla_main
+{
+    background: #ffffff;
+    margin-top: 10px;
+    border: 1.8px;
+    border-style: solid;
+    border-color: #3399FF;
+}
+
+/* -----------------------------------------------------------
+	FIELDSET
+----------------------------------------------------------- */
+fieldset
+{
+    margin: 1px 0px;
+    padding: 0px 0px 2px 0px;
+    border: 1.5px solid #898989;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+fieldset.login label, fieldset.register label, fieldset.changePassword label
+{
+    display: block;
+}
+
+fieldset label.inline
+{
+    display: inline;
+}
+
+legend
+{
+    font-size: 1em;
+    font-weight: 600;
+    padding: 2px 0px 2px 0px;
+    color: #FF0000;
+}
+
+/* -----------------------------------------------------------
+	TITULO DE FORMULARIOS
+----------------------------------------------------------- */
+
+.titulo
+{
+    margin: 0 0 20px 0;
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+    background: #000000 url("../images/title1_2.gif") repeat-x;
+}
+
+.titulo h3
+{
+    margin: 0;
+    padding: 5px 0 5px 20px;
+    float: left;
+    border: none;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/**************************************************************/
+.title
+{
+    margin: 0 0 20px 0;
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+    background: #000000 url("../images/title.gif") repeat-x;
+}
+
+.title h1, .title h2, .title h3, .title h4, .title h5, .title h6
+{
+    margin: 0;
+    padding: 5px 0 5px 20px;
+    float: left;
+    border: none;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+}
+.title_foto
+{
+    margin: 0 0 20px 0;
+    padding: 5px 0px 5px 20px;
+    height: 36px;
+    clear: both;
+    overflow: hidden;
+    color: #464747;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    background: #fff url("../images/red_bg.png") repeat-x;
+}
+
+/* -----------------------------------------------------------
+	OTRO
+----------------------------------------------------------- */
+
+
+/* -----------------------------------------------------------
+	PANELES :: TEXTBOXS
+----------------------------------------------------------- */
+
+.fondo_bloqueo
+{
+    background: #fff url("../images/fondo_popup.png") repeat;
+}
+
+._text
+{
+    background: #FFFFFF;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    color: #000000;
+    font-family: Tahoma,Arial, sans-serif;
+    font-size: 11px; /*height:17px;*/
+    text-align:center;
+    text-transform:uppercase;
+    
+}
+
+._text2
+{
+    margin: 0px;
+    padding: 0px; /*float: left;*/
+    background: #FFFFFF;
+    border-top: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-right: 1px solid #000000;
+    border-bottom: 2px solid #000000;
+    color: #000000;
+    font-family: Tahoma,Arial, sans-serif;
+    font-size: 11px; /*height:17px;*/
+    text-align:right;
+    text-transform:uppercase;
+}
+
+
+/* -----------------------------------------------------------
+	FORMULARIO :: TEXTBOXS
+----------------------------------------------------------- */
+.input_text
+{
+    margin: 0px;
+    padding: 0px; /*float: left;*/
+    background: #FFFFFF;
+    border-top: 1px solid #3399FF;
+    border-left: 1px solid #3399FF;
+    border-right: 1px solid #3399FF;
+    border-bottom: 2px solid #3399FF;
+    color: #000000;
+    font-family: Tahoma,Arial, sans-serif;
+    font-size: 11px; /*height:17px;*/
+}
+
+.input_text_enabled
+{
+    margin: 0px;
+    padding: 0px; /*float: left;*/    
+    font-family: Tahoma,Arial, sans-serif;
+    font-size: 11px; /*height:17px;*/
+}
+
+
+.input_text:focus
+{
+    background: #f6f6f6;
+    border-color: #000000;
+}
+
+.input_textnum
+{
+    margin: 0px;
+    padding: 0px;
+    text-align: right;
+    background: #FFFFFF;
+    border-top: 1px solid #3399FF;
+    border-left: 1px solid #3399FF;
+    border-right: 1px solid #3399FF;
+    border-bottom: 2px solid #3399FF;
+    color: #000000;
+    font-family: Tahoma,Arial, sans-serif;
+    font-size: 11px; /*height:17px;*/
+}
+
+.input_textnum:focus
+{
+    background: #f6f6f6;
+    border-color: #000000;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: COMBOBOX
+----------------------------------------------------------- */
+
+.input_cbo
+{
+    margin: 0px;
+    padding: 0px; /*float: left;*/
+    background: #FFFFFF;
+    border-top: 1px solid #3399FF;
+    border-left: 1px solid #3399FF;
+    border-right: 1px solid #3399FF;
+    border-bottom: 2px solid #3399FF;
+    color: #000000;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-size: 11px;
+}
+
+.input_cbo:focus
+{
+    background: #f6f6f6;
+    border-color: #000000;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: RADIO 
+----------------------------------------------------------- */
+
+.input_radio
+{
+    margin: 0px;
+    padding: 0px; /*float: left;*/
+    background: #000000;
+    color: #000000;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-size: 11px;
+}
+
+.input_radio:focus
+{
+    background: #f6f6f6;
+    border-color: #000000;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: BOTONES
+----------------------------------------------------------- */
+/*NONE*/
+.boton_none
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_none_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 0px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_sunat
+{
+    margin: 0px;
+    background: #336699 url("../images/sunat.png");
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 0px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_refresh
+{
+    margin: 0px;
+    background: url("../images/Refresh.png");
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 0px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+
+.boton_none:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_none_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_none_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_none_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 0px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*NUEVO*/
+.boton_nuevo
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_nuevo_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_nuevo:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_nuevo_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_nuevo_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_nuevo_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*AGREGAR*/
+.boton_agregar
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_agregar_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_agregar:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_agregar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_agregar_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_agregar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/************* BOTONES AGREGADOS**********/
+
+.boton_nuevo2
+{
+    background: url("../images/sking_02/boton_nuevo.gif") repeat-x;
+    color: #000000;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_nuevo2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_nuevo_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_nuevo2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_nuevo_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+
+.boton_grabar2
+{
+    background: url("../images/sking_02/boton_grabar.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_grabar2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_grabar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_grabar2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_grabar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_editar2
+{
+    background: url("../images/sking_02/boton_editar.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_editar2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_editar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_editar2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_editar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_imprimirpdf2
+{
+    background: url("../images/sking_02/boton_imprimirpdf.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_imprimirpdf2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_imprimirpdf_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_imprimirpdf2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_imprimirpdf_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_next2
+{
+    background: url("../images/sking_02/boton_next.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_next2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_next_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_next2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_next_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_add2
+{
+    background: url("../images/sking_02/boton_agregar.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_add2:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_agregar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_add2_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_agregar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+
+/* BOTON SEARCH */
+.boton_search
+{
+    background: url("../images/sking_02/boton_search.gif") repeat-x;
+    color: #FFFFFF;
+    border: 1px solid #272829;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;   
+}
+.boton_search:hover
+{
+    background: #000000;
+    border-color: #FF9900;
+    border: 1px solid #FF9900;
+    background: #000000 url("../images/sking_02/boton_search_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_search_disabled
+{
+    margin: 0px;
+    border: 1px solid #bfc0c1;
+    background: #000000 url("../images/sking_02/boton_search_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+
+
+
+
+
+/***********************************************************/
+
+/*GRABAR*/
+.boton_grabar
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_grabar_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_grabar:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_grabar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_grabar_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_grabar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*ANULAR*/
+.boton_anular
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_anular_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_anular:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_anular_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_anular_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_anular_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*EDITAR*/
+.boton_editar
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_editar_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_editar:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_editar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_editar_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_editar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*DropDownlist */
+.dropDownBox
+{
+    font-size: 13px;
+    color: #3b3b3b;
+    padding: 5px;
+    background: -moz-linear-gradient(
+    top,
+    #f0f0f0 0%,
+    #d6d6d6);
+    background: -webkit-gradient(
+    linear, left top, left bottom, 
+    from(#f0f0f0),
+    to(#d6d6d6));
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #999999;
+    -moz-box-shadow: 0px 1px 2px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(255,255,255,1);
+    -webkit-box-shadow: 0px 1px 2px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(255,255,255,1); 
+    box-shadow: 0px 1px 2px rgba(000,000,000,0.5), inset 0px 1px 0px rgba(255,255,255,1);
+     text-shadow: 0px 1px 0px rgba(255,255,255,1), 0px 1px 0px rgba(255,255,255,0);
+}
+
+
+/*IMPRIMIR PDF*/
+.boton_pdf
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_pdf_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_pdf:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_pdf_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_pdf_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_pdf_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*IMPRIMIR*/
+.boton_imprimir
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_imprimir_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_imprimir:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_imprimir_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_imprimir_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_imprimir_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*BUSCAR*/
+.boton_buscar
+{
+    background: #336699 url("../images/sking_02/boton_buscar_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.boton_buscar:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_buscar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_buscar_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_buscar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+/*FOTO*/
+.boton_foto
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_foto_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 22px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_foto:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_foto_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_foto_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_foto_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 22px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*LISTAR*/
+.boton_listar
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_listar_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_listar:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_listar_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_listar_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_listar_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*PROCESO*/
+.boton_proceso
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_proceso_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_proceso:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_proceso_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_proceso_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_proceso_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*EXCEL*/
+.boton_excel
+{
+    background: #336699 url("../images/sking_02/boton_excel_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+}
+
+.boton_excel:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_excel_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_excel_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_excel_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*CORREO*/
+.boton_correo
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_correo_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_correo:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_correo_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_correo_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_correo_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+/*UPLOAD*/
+.boton_upload
+{
+    margin: 0px;
+    background: #336699 url("../images/sking_02/boton_upload_default.gif") repeat-x;
+    border: 1px solid #33679a;
+    color: #FFFFFF;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    font-size: 11px;
+    height: 20px;
+    padding: 0px 0px 0px 17px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+
+.boton_upload:hover
+{
+    background: #4784c1;
+    border-color: #336699;
+    border: 1px solid #33679a;
+    background: #336699 url("../images/sking_02/boton_upload_hover.gif") repeat-x;
+    cursor: pointer;
+}
+.boton_upload_disabled
+{
+    margin: 0px;
+    background: #4784c1;
+    border: 1px solid #bfc0c1;
+    background: #336699 url("../images/sking_02/boton_upload_disabled.gif") repeat-x;
+    padding: 0px 0px 0px 17px;
+    font-family: Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif;
+    font-weight: bold;
+    vertical-align: top;
+    height: 20px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+/* -----------------------------------------------------------
+	FORMULARIO :: GRIDS FORMATO 01
+----------------------------------------------------------- */
+
+.mGrid
+{
+    background-color: #eeeeee;
+    margin: 5px 0 10px 0;
+    border: solid 1px #3399FF;
+    border-collapse: collapse;
+}
+.mGrid td
+{
+    padding: 2px;
+    border: solid 1px #3399FF;
+    color: #000000;
+    font-family: tahoma;
+    font-size: 10px;
+    text-align: left;
+}
+.mGrid th
+{
+    padding: 4px 2px;
+    color: #fff;
+    background: #3399FF url(../images/title1_2.gif) repeat-x top;
+    border-left: solid 1px #3399FF;
+    font-size: 12px;
+}
+.mGrid .alt
+{
+    background: #fcfcfc url(../images/grd_alt.png) repeat-x top; /* background-color: #d8d7d7;     border: solid 1px #315c88;*/
+}
+.mGrid .pgr
+{
+    background: #3399FF url(../images/title1_2.gif) repeat-x top;
+}
+.mGrid .pgr table
+{
+    margin: 5px 0;
+}
+.mGrid .pgr td
+{
+    border-width: 0;
+    padding: 0 6px;
+    border-left: solid 1px #3399FF;
+    font-weight: bold;
+    color: #fff;
+    line-height: 12px;
+}
+.mGrid .pgr a
+{
+    color: #b9dcff;
+    text-decoration: none;
+}
+.mGrid .pgr a:hover
+{
+    color: #eeeeee;
+    text-decoration: none;
+}
+.SeRoSty
+{
+    border: solid 1px #000000;
+    padding: 2px;
+}
+.SeRoSty td
+{
+    padding: 2px;
+    border: solid 1px #000000;
+    color: #FFFFFF;
+}
+.gridHover
+{
+    background-color: #d8d7d7;
+    border: solid 1px #000000;
+    padding: 2px;
+}
+.gridHover td
+{
+    padding: 2px;
+    border: solid 1px #000000;
+    color: #555555;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: TABPANEL DISEÑO 01
+----------------------------------------------------------- */
+
+.fancy .ajax__tab_header
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #3d3d3d;
+    font-family: sans-serif;
+    text-align: left;
+}
+.fancy .ajax__tab_tab
+{
+    color: #3d3d3d;
+}
+.fancy .ajax__tab_active .ajax__tab_outer, .fancy .ajax__tab_header .ajax__tab_outer, .fancy .ajax__tab_hover .ajax__tab_outer
+{
+    height: 36px;
+    cursor: pointer;
+}
+.fancy .ajax__tab_active .ajax__tab_inner, .fancy .ajax__tab_header .ajax__tab_inner, .fancy .ajax__tab_hover .ajax__tab_inner
+{
+    height: 36px;
+    color: #17ee17;
+    margin-left: 16px; /* offset the width of the left image */
+}
+
+.fancy .ajax__tab_active .ajax__tab_tab, .fancy .ajax__tab_hover .ajax__tab_tab, .fancy .ajax__tab_header .ajax__tab_tab
+{
+    margin: 11px 16px 0px 0px;
+}
+.fancy .ajax__tab_hover .ajax__tab_tab, .fancy .ajax__tab_active .ajax__tab_tab
+{
+    color: #fff;
+}
+.fancy .ajax__tab_body
+{
+    font-family: verdana,tahoma,helvetica;
+    font-size: 10pt;
+    border: 1.5px solid #3399CC;
+    border-top: 0px;
+    padding: 0px;
+    background-color: #ffffff;
+}
+
+.fancy .ajax__tab_header
+{
+    background: url(../images/red_bg.png) repeat-x;
+}
+.fancy .ajax__tab_hover .ajax__tab_outer, .fancy .ajax__tab_active .ajax__tab_outer
+{
+    background: url(../images/red_left.png) no-repeat left top;
+}
+.fancy .ajax__tab_hover .ajax__tab_inner, .fancy .ajax__tab_active .ajax__tab_inner
+{
+    background: url(../images/red_right.png) no-repeat right top;
+}
+
+
+
+/* -----------------------------------------------------------
+	FORMULARIO :: TABPANEL DISEÑO 02 VERTICAL
+----------------------------------------------------------- */
+
+.fancy_vertical .ajax__tab_header
+{
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    border-bottom: solid 1px #999999;
+}
+
+.fancy_vertical .ajax__tab_outer
+{
+    padding-right: 4px;
+    width: 190px;
+    height: 25px;
+    background-color: #e1e1e1;
+    color: #000;
+    margin-right: 2px;
+    border-right: solid 1px #666666;
+    border-top: solid 1px #aaaaaa;
+}
+
+.fancy_vertical .ajax__tab_inner
+{
+    padding-left: 3px;
+    background-color: #e1e1e1;
+}
+
+.fancy_vertical .ajax__tab_tab
+{
+    color: #000;
+    font-size: 11px;
+    font-weight: bold;
+    height: 13px;
+    padding: 4px;
+    margin: 0;
+}
+
+.fancy_vertical .ajax__tab_hover .ajax__tab_outer
+{
+    background-color: #3399CC;
+}
+
+.fancy_vertical .ajax__tab_hover .ajax__tab_inner
+{
+    background-color: #3399CC;
+}
+
+.fancy_vertical .ajax__tab_hover .ajax__tab_tab
+{
+    color: #ffffff;
+}
+
+.fancy_vertical .ajax__tab_active .ajax__tab_outer
+{
+    background-color: #3399CC;
+}
+
+.fancy_vertical .ajax__tab_active .ajax__tab_inner
+{
+    background-color: #3399CC;
+}
+
+.fancy_vertical .ajax__tab_active .ajax__tab_tab
+{
+    color: #ffffff;
+}
+
+.fancy_vertical .ajax__tab_body
+{
+    font-family: sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    border: 1px solid #999999;
+    border-top: 0;
+    padding: 8px;
+    background-color: #ffffff;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: BANNER DETALLES DIFERENTES ESTILOS
+----------------------------------------------------------- */
+.banner_detalle_01
+{
+    color: #fff;
+    background: #000000 url(../images/grd_head02.png) repeat-x top;
+    border-left: solid 1px #fff;
+    font-size: 11px;
+    font-weight: bold;
+}
+.banner_detalle_02
+{
+    color: #fff;
+    background: #000000 url(../images/grd_head02.png) repeat-x top;
+    border-left: solid 1px #fff;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.banner_detalle_03
+{
+    color: #fff;
+    background: #000000 url(../images/grd_head02.png) repeat-x top;
+    border-left: solid 0px #fff;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.banner_detalle_04
+{
+    color: #3e3d3d;
+    background: #d0d0d0 url(../images/fondo_header01.gif) repeat-x top;
+    border-bottom: solid 1px #c6c6c6;
+    font-size: 11px;
+    font-weight: bolder;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: FORMULARIO BUSCAR POPUP
+----------------------------------------------------------- */
+.modalPopup
+{
+    border: 1.8px solid #3399FF;
+    background-color: #fff;
+    padding: 0px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+.modalBackground
+{
+    background: #ccc url(../images/ui-bg_diagonals-thick_50_aaaaaa_40x40.png) 50% 50% repeat;
+    opacity: .30;
+    filter: Alpha(Opacity=30);
+}
+
+.headPopup
+{
+    border: 1px solid #000000;
+    background: #000000 url(../images/title1_2.gif) 50% 50% repeat-x;
+    font-weight: normal;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.fondo_popup
+{
+    /*position: absolute;*/
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 500;
+    width: 100%;
+    height: 100%;
+    display: none;
+    background: url(../images/fondo_popup.png) 50% 50% repeat;
+}
+
+.contenido_popup
+{
+    position: absolute;
+    margin: auto;
+    left: 30%;
+    top: 20%;
+    display: block;
+    border: 1px solid #b6b7b7;
+    background: #efefef;
+    border: 2px solid #000000;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: ACOORDION
+----------------------------------------------------------- */
+.accordionHeader
+{
+    border: 1px solid #2F4F4F;
+    color: #000000;
+    background-image: url("../images/fnd_banner03.jpg"); /*background-color: #2E4d7B;*/
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 1px;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+#master_content .accordionHeader a
+{
+    color: #FFFFFF;
+    background: none;
+    text-decoration: none;
+}
+
+#master_content .accordionHeader a:hover
+{
+    background: none;
+    text-decoration: underline;
+}
+
+.accordionHeaderSelected
+{
+    border: 1px solid #2F4F4F;
+    color: white;
+    background-image: url("../images/fnd_banner01.jpg"); /*background-color: #5078B3;*/
+    font-family: Arial, Sans-Serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 1px;
+    margin-top: 1px;
+    cursor: pointer;
+}
+
+#master_content .accordionHeaderSelected a
+{
+    color: #FFFFFF;
+    background: none;
+    text-decoration: none;
+}
+
+#master_content .accordionHeaderSelected a:hover
+{
+    background: none;
+    text-decoration: underline;
+}
+
+.accordionContent
+{
+    background-color: #FFFFFF;
+    border: 1px solid #2F4F4F;
+    border-top: none;
+    padding: 5px;
+    padding-top: 5px;
+}
+
+/* -----------------------------------------------------------
+	FORMULARIO :: DISFRAZAR CADENA DE GRIDVIEW
+----------------------------------------------------------- */
+.gridescondercodigo
+{
+    top: 3px;
+    text-indent: -9999px;
+    width: 100px;
+    background: transparent url("../images/estrella.png") repeat-x;
+}
