@@ -200,6 +200,5 @@ D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusin
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerBusinessLogic.pdb
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\bin\Debug\LayerDataAccess.pdb
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.csprojFakesResolveAssemblyReference.cache
-D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.csprojResolveAssemblyReference.cache
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.dll
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\bapFunciones\obj\Debug\bapFunciones.pdb

@@ -67,3 +67,11 @@ D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapControles\obj\Debug\BapControl
 D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapControles\obj\Debug\BapControles.csproj.GenerateResource.Cache
 D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapControles\obj\Debug\BapControles.dll
 D:\desarrolloAlm\ErpBapSoftNet_almacen24092015\BapControles\obj\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\bin\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\bin\Debug\BapControles.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.List2List.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.Properties.Resources.resources
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.csproj.GenerateResource.Cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapControles\obj\Debug\BapControles.pdb

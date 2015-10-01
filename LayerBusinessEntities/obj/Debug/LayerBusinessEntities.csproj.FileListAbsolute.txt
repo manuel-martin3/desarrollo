@@ -55,3 +55,8 @@ D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessEntities\bin\Debug\L
 D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.csprojResolveAssemblyReference.cache
 D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.dll
 D:\desarrolloAlm\ErpBapSoftNet_almacen26092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessEntities\bin\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessEntities\bin\Debug\LayerBusinessEntities.pdb
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.csprojResolveAssemblyReference.cache
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.dll
+D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\LayerBusinessEntities\obj\Debug\LayerBusinessEntities.pdb

@@ -1496,12 +1496,12 @@ namespace BapFormulariosNet.D60ALMACEN
                 dt = BL_.GetvalidaMov(EmpresaID, BE_).Tables[0];
                 string arows = dt.Rows[0].Field<string>("Idx");
 
-                if (arows == "0")
-                {
-                    MessageBox.Show("El Producto seleccionado no pertenece a la OP N°: " + ser_op.Text + "-" + num_op.Text +
-                        ", \n Verificar OP ", "Confirmación",
-                        MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                }
+                //if (arows == "0")
+                //{
+                //    MessageBox.Show("El Producto seleccionado no pertenece a la OP N°: " + ser_op.Text + "-" + num_op.Text +
+                //        ", \n Verificar OP ", "Confirmación",
+                //        MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                //}
  
 
             }

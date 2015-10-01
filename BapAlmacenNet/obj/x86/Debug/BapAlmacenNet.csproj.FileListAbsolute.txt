@@ -498,6 +498,3 @@ D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAl
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.TrustInfo.xml
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe.manifest
 D:\desarrolloAlm\ErpBapSoftNet_almacen28092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.application
-D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\bin\Debug\BapAlmacenNet.exe.config
-D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.exe
-D:\desarrolloAlm\ErpBapSoftNet_almacen29092015\BapAlmacenNet\obj\x86\Debug\BapAlmacenNet.pdb
